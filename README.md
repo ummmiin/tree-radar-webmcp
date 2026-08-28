@@ -1,12 +1,22 @@
 # Tree Radar × WebMCP Challenge
 
-A small, runnable public challenge surface for agent-assisted exploration of Taichung street trees. It retains the same admitted static package and the three browser-exposed WebMCP tools used by the challenge application.
+A public challenge surface for exploring 118,403 official Taichung street-tree records with a human-facing map and agent-assisted discovery.
+
+**Live demo:** <https://tree-radar-webmcp.vercel.app>
+
+**Code:** <https://github.com/ummmiin/tree-radar-webmcp>
 
 ## Challenge disclosure
 
-Pre-existing Tree Radar behavior is the human-facing map, exact species search, tree detail view, governed Taichung static runtime/package, and official-data presentation.
+### Pre-existing before the WebMCP Challenge
+
+Tree Radar’s product concept, human-facing map, exact species search, tree detail view, official-data presentation, and the 118,403-record Taichung integrity-checked static package/runtime existed before this WebMCP extension.
+
+### Added during the WebMCP Challenge
 
 Added for this WebMCP challenge are `document.modelContext` registration and the read-only `get_city_coverage`, `find_trees`, and `show_trees_on_map` tools. They provide bounded agent discovery and an ephemeral candidate-map handoff: a human can explore, an agent can discover permitted candidates, and the human remains in the normal map/detail loop. The tools do not perform named-place geocoding, persistent agent mutation, or Production WebMCP operations.
+
+Challenge-period evidence: public commit [`8713720`](https://github.com/ummmiin/tree-radar-webmcp/commit/8713720bd36dddd5c9fc106558f398dec1ec76cc), dated 2026-08-28, publishes this extracted WebMCP challenge surface. This standalone repository does not claim an earlier public commit date for the pre-existing product.
 
 ## Run locally
 
@@ -31,7 +41,9 @@ Expected tools: `get_city_coverage`, `find_trees`, and `show_trees_on_map`.
 Example calls:
 
 ```js
-await document.modelContext.executeTool("get_city_coverage", { city: "Taichung" });
+await document.modelContext.executeTool("get_city_coverage", {
+  city: "Taichung",
+});
 await document.modelContext.executeTool("find_trees", {
   city: "Taichung",
   latitude: 24.15,
@@ -70,6 +82,10 @@ This repository contains only the runnable Taichung WebMCP challenge: its Next.j
 
 Code in this repository is licensed under the [MIT License](LICENSE). The included government data remains subject to the Taiwan Open Government Data License 1.0 and its attribution requirements; the data license does not change merely because the surrounding code is MIT-licensed.
 
-## Challenge hosting plan
+## Live challenge
 
-Deploy this clean extracted repository as a separate public Vercel project only after review. It has no remote configured by this extraction. The current protected preview deployment is unsuitable for public challenge access because its access policy and governance are intentionally private; a separate public project keeps the challenge surface isolated. This repository is local-only and uncommitted until a maintainer performs the final publication review.
+Live judge URL: <https://tree-radar-webmcp.vercel.app>
+
+Public code: <https://github.com/ummmiin/tree-radar-webmcp>
+
+The separate public Vercel host requires no login and leaves Tree Radar Production and the protected Preview unchanged.
