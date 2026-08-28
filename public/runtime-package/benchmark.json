@@ -1,0 +1,68 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "benchmarkVersion": "1.0.0",
+  "clusterCounts": [
+    {
+      "clusterCount": 4,
+      "zoom": 10
+    },
+    {
+      "clusterCount": 10,
+      "zoom": 12
+    },
+    {
+      "clusterCount": 67,
+      "zoom": 14
+    }
+  ],
+  "coldPackageLoadEstimate": {
+    "exactIdReadyBytes": 15001141,
+    "exactIdReadyGzipBytes": 872476,
+    "overviewOnlyBytes": 486,
+    "overviewOnlyGzipBytes": 306,
+    "strategy": "overview-only metadata; exact-ID lookup is loaded only when an exact ID is requested"
+  },
+  "detail": {
+    "averageShardBytes": 130970.97265625,
+    "averageShardRecords": 462.51171875,
+    "largestShard": {
+      "bytes": 150501,
+      "gzipBytes": 16834,
+      "path": "details/1d.json",
+      "recordCount": 532,
+      "sha256": "39e70cec7b5b84bcd7904692c6e583866f73f5bdf175d19b490628ca6512fcf2"
+    },
+    "shardCount": 256,
+    "totalBytes": 33528569,
+    "totalGzipBytes": 3764401
+  },
+  "manifest": {
+    "bytes": 137094,
+    "gzipBytes": 34413,
+    "path": "manifest.json",
+    "recordCount": 0,
+    "sha256": "9fe177c4c32b098da4976a061af6eb71baa9a4bd08c72041c602aadb5fd4fdfe"
+  },
+  "point": {
+    "averageShardBytes": 179285.96791443852,
+    "averageShardRecords": 633.1711229946524,
+    "largestShard": {
+      "bytes": 794974,
+      "gzipBytes": 70822,
+      "path": "points/z15/27364-14116.json",
+      "recordCount": 2830,
+      "sha256": "1bbb53c580a0f054fa38ed4c9ee5a6a3d8940897f16c6442c1bef1697f64bd1a"
+    },
+    "shardCount": 187,
+    "totalBytes": 33526476,
+    "totalGzipBytes": 2973701
+  },
+  "recordCount": 118403,
+  "search": {
+    "shardCount": 208,
+    "totalBytes": 6551689,
+    "totalGzipBytes": 494507
+  },
+  "totalPackageBytes": 88774100,
+  "totalPackageGzipBytes": 8143936
+}

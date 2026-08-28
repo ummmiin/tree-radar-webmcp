@@ -1,0 +1,113 @@
+{
+  "accountingVersion": "1.0.0",
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "canonical": {
+    "membership": {
+      "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+      "duplicateRecords": 0,
+      "membershipRecords": 118403,
+      "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+      "missingRecords": 0,
+      "status": "reconciled",
+      "totalCanonicalRecords": 118403,
+      "unexpectedRecords": 0,
+      "uniqueRecords": 118403
+    },
+    "recordCount": 118403
+  },
+  "cluster": [
+    {
+      "membership": {
+        "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "duplicateRecords": 0,
+        "membershipRecords": 118403,
+        "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "missingRecords": 0,
+        "status": "reconciled",
+        "totalCanonicalRecords": 118403,
+        "unexpectedRecords": 0,
+        "uniqueRecords": 118403
+      },
+      "zoom": 10
+    },
+    {
+      "membership": {
+        "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "duplicateRecords": 0,
+        "membershipRecords": 118403,
+        "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "missingRecords": 0,
+        "status": "reconciled",
+        "totalCanonicalRecords": 118403,
+        "unexpectedRecords": 0,
+        "uniqueRecords": 118403
+      },
+      "zoom": 12
+    },
+    {
+      "membership": {
+        "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "duplicateRecords": 0,
+        "membershipRecords": 118403,
+        "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "missingRecords": 0,
+        "status": "reconciled",
+        "totalCanonicalRecords": 118403,
+        "unexpectedRecords": 0,
+        "uniqueRecords": 118403
+      },
+      "zoom": 14
+    }
+  ],
+  "detail": {
+    "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "duplicateRecords": 0,
+    "membershipRecords": 118403,
+    "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "missingRecords": 0,
+    "status": "reconciled",
+    "totalCanonicalRecords": 118403,
+    "unexpectedRecords": 0,
+    "uniqueRecords": 118403
+  },
+  "exactIdLookup": {
+    "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "duplicateRecords": 0,
+    "membershipRecords": 118403,
+    "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "missingRecords": 0,
+    "status": "reconciled",
+    "totalCanonicalRecords": 118403,
+    "unexpectedRecords": 0,
+    "uniqueRecords": 118403
+  },
+  "noLossProof": true,
+  "point": {
+    "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "duplicateRecords": 0,
+    "membershipRecords": 118403,
+    "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+    "missingRecords": 0,
+    "status": "reconciled",
+    "totalCanonicalRecords": 118403,
+    "unexpectedRecords": 0,
+    "uniqueRecords": 118403
+  },
+  "search": {
+    "species": {
+      "indexedCanonicalRecords": 118403,
+      "membership": {
+        "canonicalMembershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "duplicateRecords": 0,
+        "membershipRecords": 118403,
+        "membershipSha256": "6931290c4fc3bfb5e4e7a8c05216096ec697abd414ddf83c43af469e5b4b05ad",
+        "missingRecords": 0,
+        "status": "reconciled",
+        "totalCanonicalRecords": 118403,
+        "unexpectedRecords": 0,
+        "uniqueRecords": 118403
+      },
+      "unindexedCanonicalRecords": 0
+    }
+  }
+}

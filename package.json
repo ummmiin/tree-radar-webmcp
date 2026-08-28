@@ -1,0 +1,43 @@
+{
+  "name": "tree-radar-webmcp",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Standalone Tree Radar WebMCP challenge surface for the admitted Taichung street-tree package.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "packageManager": "npm@11.9.0",
+  "scripts": {
+    "build": "node ./node_modules/next/dist/bin/next build",
+    "dev": "node ./node_modules/next/dist/bin/next dev",
+    "format:check": "node ./node_modules/prettier/bin/prettier.cjs --check .",
+    "lint": "node ./node_modules/eslint/bin/eslint.js .",
+    "start": "node ./node_modules/next/dist/bin/next start",
+    "test": "node ./node_modules/vitest/vitest.mjs run",
+    "typecheck": "node ./node_modules/typescript/bin/tsc --noEmit",
+    "validate:static-package": "node ./node_modules/tsx/dist/cli.mjs scripts/validate-static-package.ts"
+  },
+  "dependencies": {
+    "maplibre-gl": "^5.24.0",
+    "next": "^16.2.10",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "zod": "^4.0.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.31.0",
+    "@types/geojson": "^7946.0.16",
+    "@types/node": "^24.0.14",
+    "@types/react": "^19.2.17",
+    "@types/react-dom": "^19.2.3",
+    "eslint": "^9.31.0",
+    "eslint-config-next": "^16.2.10",
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0",
+    "vitest": "^3.2.4"
+  }
+}

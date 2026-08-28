@@ -1,0 +1,13 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "canonicalSchemaVersion": "2.0.0",
+  "cityId": "taichung",
+  "datasetKey": "street-trees",
+  "packageVersion": "1.0.0",
+  "recordCount": 118403,
+  "sourceSnapshot": {
+    "identifier": "sha256:0b76c209d244634901dcb2e0a19b1dfb26152cf12ee3e2ebdb4dfb9386a34076",
+    "retrievedAt": "2026-08-02T07:42:05.255Z",
+    "sha256": "0b76c209d244634901dcb2e0a19b1dfb26152cf12ee3e2ebdb4dfb9386a34076"
+  }
+}

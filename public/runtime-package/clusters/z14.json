@@ -1,0 +1,878 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "clusterVersion": "1.0.0",
+  "clusters": [
+    {
+      "clusterId": "14/13678/7054",
+      "recordCount": 60,
+      "representativeCoordinates": {
+        "latitude": 24.23343136624234,
+        "longitude": 120.5638162832818
+      },
+      "tile": {
+        "x": 13678,
+        "y": 7054,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13678/7056",
+      "recordCount": 280,
+      "representativeCoordinates": {
+        "latitude": 24.198639000545516,
+        "longitude": 120.56277705492718
+      },
+      "tile": {
+        "x": 13678,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13679/7052",
+      "recordCount": 1497,
+      "representativeCoordinates": {
+        "latitude": 24.2717942003563,
+        "longitude": 120.58263976222375
+      },
+      "tile": {
+        "x": 13679,
+        "y": 7052,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13679/7054",
+      "recordCount": 1651,
+      "representativeCoordinates": {
+        "latitude": 24.23578703309225,
+        "longitude": 120.56664629501536
+      },
+      "tile": {
+        "x": 13679,
+        "y": 7054,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13679/7055",
+      "recordCount": 437,
+      "representativeCoordinates": {
+        "latitude": 24.224361787173866,
+        "longitude": 120.572084301977
+      },
+      "tile": {
+        "x": 13679,
+        "y": 7055,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13679/7057",
+      "recordCount": 22,
+      "representativeCoordinates": {
+        "latitude": 24.16743162215499,
+        "longitude": 120.58446401795473
+      },
+      "tile": {
+        "x": 13679,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13679/7058",
+      "recordCount": 92,
+      "representativeCoordinates": {
+        "latitude": 24.165496011487907,
+        "longitude": 120.58564521561873
+      },
+      "tile": {
+        "x": 13679,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7052",
+      "recordCount": 32,
+      "representativeCoordinates": {
+        "latitude": 24.274210169604075,
+        "longitude": 120.58606699869635
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7052,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7056",
+      "recordCount": 1088,
+      "representativeCoordinates": {
+        "latitude": 24.197040980731597,
+        "longitude": 120.59723509948836
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7057",
+      "recordCount": 535,
+      "representativeCoordinates": {
+        "latitude": 24.18303786949899,
+        "longitude": 120.59806623539393
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7058",
+      "recordCount": 1215,
+      "representativeCoordinates": {
+        "latitude": 24.156952923815577,
+        "longitude": 120.59516739730307
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7059",
+      "recordCount": 126,
+      "representativeCoordinates": {
+        "latitude": 24.139087178373064,
+        "longitude": 120.60382620841021
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7060",
+      "recordCount": 931,
+      "representativeCoordinates": {
+        "latitude": 24.109541666785343,
+        "longitude": 120.59467263966344
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13680/7061",
+      "recordCount": 93,
+      "representativeCoordinates": {
+        "latitude": 24.10557753387202,
+        "longitude": 120.6049249292238
+      },
+      "tile": {
+        "x": 13680,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7054",
+      "recordCount": 402,
+      "representativeCoordinates": {
+        "latitude": 24.24092523889503,
+        "longitude": 120.61626796502699
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7054,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7055",
+      "recordCount": 5,
+      "representativeCoordinates": {
+        "latitude": 24.20694775376369,
+        "longitude": 120.62532387535335
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7055,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7056",
+      "recordCount": 1098,
+      "representativeCoordinates": {
+        "latitude": 24.194022419415013,
+        "longitude": 120.61611266412751
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7057",
+      "recordCount": 2750,
+      "representativeCoordinates": {
+        "latitude": 24.17935369979823,
+        "longitude": 120.62103407765103
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7058",
+      "recordCount": 2061,
+      "representativeCoordinates": {
+        "latitude": 24.153738157166675,
+        "longitude": 120.6246249266945
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7059",
+      "recordCount": 2591,
+      "representativeCoordinates": {
+        "latitude": 24.13744864845292,
+        "longitude": 120.62346442624542
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7060",
+      "recordCount": 607,
+      "representativeCoordinates": {
+        "latitude": 24.11470785838798,
+        "longitude": 120.62771739678256
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13681/7061",
+      "recordCount": 925,
+      "representativeCoordinates": {
+        "latitude": 24.10235597448896,
+        "longitude": 120.62298138766153
+      },
+      "tile": {
+        "x": 13681,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7053",
+      "recordCount": 318,
+      "representativeCoordinates": {
+        "latitude": 24.25942077445628,
+        "longitude": 120.64935222578897
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7053,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7055",
+      "recordCount": 405,
+      "representativeCoordinates": {
+        "latitude": 24.220545290965646,
+        "longitude": 120.64794018445761
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7055,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7056",
+      "recordCount": 1499,
+      "representativeCoordinates": {
+        "latitude": 24.195577386416183,
+        "longitude": 120.64237487183549
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7057",
+      "recordCount": 4352,
+      "representativeCoordinates": {
+        "latitude": 24.173181144031368,
+        "longitude": 120.64081803590322
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7058",
+      "recordCount": 8847,
+      "representativeCoordinates": {
+        "latitude": 24.15837193175239,
+        "longitude": 120.64020732360878
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7059",
+      "recordCount": 6824,
+      "representativeCoordinates": {
+        "latitude": 24.138629439393863,
+        "longitude": 120.64263684375199
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7060",
+      "recordCount": 1072,
+      "representativeCoordinates": {
+        "latitude": 24.117327174539668,
+        "longitude": 120.63950354977648
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13682/7061",
+      "recordCount": 867,
+      "representativeCoordinates": {
+        "latitude": 24.095731283599,
+        "longitude": 120.64767609182529
+      },
+      "tile": {
+        "x": 13682,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7052",
+      "recordCount": 218,
+      "representativeCoordinates": {
+        "latitude": 24.27127897985675,
+        "longitude": 120.65638380882653
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7052,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7055",
+      "recordCount": 449,
+      "representativeCoordinates": {
+        "latitude": 24.21248218929149,
+        "longitude": 120.66375623388727
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7055,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7056",
+      "recordCount": 1668,
+      "representativeCoordinates": {
+        "latitude": 24.195193355702372,
+        "longitude": 120.66375921866076
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7057",
+      "recordCount": 2868,
+      "representativeCoordinates": {
+        "latitude": 24.178356694751255,
+        "longitude": 120.66389422384923
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7058",
+      "recordCount": 5170,
+      "representativeCoordinates": {
+        "latitude": 24.15714480417849,
+        "longitude": 120.6642269937461
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7059",
+      "recordCount": 6337,
+      "representativeCoordinates": {
+        "latitude": 24.134508772443503,
+        "longitude": 120.66192835129188
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7060",
+      "recordCount": 5155,
+      "representativeCoordinates": {
+        "latitude": 24.119034353507434,
+        "longitude": 120.6646580536349
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7061",
+      "recordCount": 713,
+      "representativeCoordinates": {
+        "latitude": 24.09314334066577,
+        "longitude": 120.65765721076824
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13683/7062",
+      "recordCount": 855,
+      "representativeCoordinates": {
+        "latitude": 24.084215504679886,
+        "longitude": 120.66332138942596
+      },
+      "tile": {
+        "x": 13683,
+        "y": 7062,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7056",
+      "recordCount": 3106,
+      "representativeCoordinates": {
+        "latitude": 24.194993482396377,
+        "longitude": 120.68494418843889
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7057",
+      "recordCount": 3571,
+      "representativeCoordinates": {
+        "latitude": 24.175038300096816,
+        "longitude": 120.68656674542912
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7058",
+      "recordCount": 4482,
+      "representativeCoordinates": {
+        "latitude": 24.158565753471276,
+        "longitude": 120.68260054940953
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7059",
+      "recordCount": 2622,
+      "representativeCoordinates": {
+        "latitude": 24.139189680589705,
+        "longitude": 120.68641086276364
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7060",
+      "recordCount": 3516,
+      "representativeCoordinates": {
+        "latitude": 24.121691925329696,
+        "longitude": 120.68526491665934
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7061",
+      "recordCount": 1429,
+      "representativeCoordinates": {
+        "latitude": 24.099726453098302,
+        "longitude": 120.68290737545243
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13684/7062",
+      "recordCount": 629,
+      "representativeCoordinates": {
+        "latitude": 24.08508513228337,
+        "longitude": 120.69030732424231
+      },
+      "tile": {
+        "x": 13684,
+        "y": 7062,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7051",
+      "recordCount": 1210,
+      "representativeCoordinates": {
+        "latitude": 24.288144309479296,
+        "longitude": 120.7050066341246
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7051,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7052",
+      "recordCount": 628,
+      "representativeCoordinates": {
+        "latitude": 24.28671335975714,
+        "longitude": 120.70636492609624
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7052,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7053",
+      "recordCount": 1805,
+      "representativeCoordinates": {
+        "latitude": 24.25635201079789,
+        "longitude": 120.7100368809958
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7053,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7054",
+      "recordCount": 142,
+      "representativeCoordinates": {
+        "latitude": 24.233692383909453,
+        "longitude": 120.71025175607336
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7054,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7055",
+      "recordCount": 647,
+      "representativeCoordinates": {
+        "latitude": 24.21223667362127,
+        "longitude": 120.71052708531461
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7055,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7056",
+      "recordCount": 395,
+      "representativeCoordinates": {
+        "latitude": 24.202416015488996,
+        "longitude": 120.70474642012388
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7056,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7057",
+      "recordCount": 5261,
+      "representativeCoordinates": {
+        "latitude": 24.17762085652967,
+        "longitude": 120.70635584665591
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7058",
+      "recordCount": 2769,
+      "representativeCoordinates": {
+        "latitude": 24.15703165219935,
+        "longitude": 120.70426025967375
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7059",
+      "recordCount": 5352,
+      "representativeCoordinates": {
+        "latitude": 24.137552191666412,
+        "longitude": 120.70282375673337
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7060",
+      "recordCount": 692,
+      "representativeCoordinates": {
+        "latitude": 24.116090597433395,
+        "longitude": 120.71544004727565
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7061",
+      "recordCount": 552,
+      "representativeCoordinates": {
+        "latitude": 24.093445504579588,
+        "longitude": 120.70105468740756
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13685/7062",
+      "recordCount": 165,
+      "representativeCoordinates": {
+        "latitude": 24.08571036781739,
+        "longitude": 120.70405313185393
+      },
+      "tile": {
+        "x": 13685,
+        "y": 7062,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7053",
+      "recordCount": 2431,
+      "representativeCoordinates": {
+        "latitude": 24.2563524434234,
+        "longitude": 120.72657386183248
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7053,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7054",
+      "recordCount": 414,
+      "representativeCoordinates": {
+        "latitude": 24.24157340456988,
+        "longitude": 120.72200350324546
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7054,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7057",
+      "recordCount": 3170,
+      "representativeCoordinates": {
+        "latitude": 24.174045320985783,
+        "longitude": 120.72865945544218
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7057,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7058",
+      "recordCount": 4610,
+      "representativeCoordinates": {
+        "latitude": 24.15594461915323,
+        "longitude": 120.72761999315169
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7058,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7059",
+      "recordCount": 1148,
+      "representativeCoordinates": {
+        "latitude": 24.14196140341735,
+        "longitude": 120.72258619699934
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7059,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7060",
+      "recordCount": 849,
+      "representativeCoordinates": {
+        "latitude": 24.121084917656653,
+        "longitude": 120.72378998546671
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7060,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7061",
+      "recordCount": 198,
+      "representativeCoordinates": {
+        "latitude": 24.092116712267174,
+        "longitude": 120.72250977535433
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7061,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13686/7062",
+      "recordCount": 383,
+      "representativeCoordinates": {
+        "latitude": 24.08637294850394,
+        "longitude": 120.7229410616978
+      },
+      "tile": {
+        "x": 13686,
+        "y": 7062,
+        "zoom": 14
+      }
+    },
+    {
+      "clusterId": "14/13690/7053",
+      "recordCount": 112,
+      "representativeCoordinates": {
+        "latitude": 24.258504565213027,
+        "longitude": 120.81580359644673
+      },
+      "tile": {
+        "x": 13690,
+        "y": 7053,
+        "zoom": 14
+      }
+    }
+  ],
+  "zoom": 14
+}

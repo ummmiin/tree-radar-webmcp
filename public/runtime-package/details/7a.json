@@ -1,0 +1,4327 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "detailVersion": "1.0.0",
+  "records": [
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0402866A594981",
+      "coordinates": {
+        "latitude": 24.17133890569749,
+        "longitude": 120.6357516685658
+      },
+      "sourceRecordId": "0402866A594981",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0403416A594981",
+      "coordinates": {
+        "latitude": 24.16185870995053,
+        "longitude": 120.6376944038641
+      },
+      "sourceRecordId": "0403416A594981",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0404396A594981",
+      "coordinates": {
+        "latitude": 24.13377728902826,
+        "longitude": 120.6380298838984
+      },
+      "sourceRecordId": "0404396A594981",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0409996A594980",
+      "coordinates": {
+        "latitude": 24.16063754046299,
+        "longitude": 120.6398961582271
+      },
+      "sourceRecordId": "0409996A594980",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:040A206A594981",
+      "coordinates": {
+        "latitude": 24.14521682966965,
+        "longitude": 120.6248609191687
+      },
+      "sourceRecordId": "040A206A594981",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:040A946A594980",
+      "coordinates": {
+        "latitude": 24.12662509421745,
+        "longitude": 120.6304768230985
+      },
+      "sourceRecordId": "040A946A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:040B986A594981",
+      "coordinates": {
+        "latitude": 24.16112674970516,
+        "longitude": 120.6341667847561
+      },
+      "sourceRecordId": "040B986A594981",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:040F3F6A594981",
+      "coordinates": {
+        "latitude": 24.16301150579383,
+        "longitude": 120.6667974231671
+      },
+      "sourceRecordId": "040F3F6A594981",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:040F866A594981",
+      "coordinates": {
+        "latitude": 24.16567929590816,
+        "longitude": 120.6445556009711
+      },
+      "sourceRecordId": "040F866A594981",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04139F6A594981",
+      "coordinates": {
+        "latitude": 24.15697999850845,
+        "longitude": 120.6823140046463
+      },
+      "sourceRecordId": "04139F6A594981",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0414076A594985",
+      "coordinates": {
+        "latitude": 24.1541660861599,
+        "longitude": 120.6275932747136
+      },
+      "sourceRecordId": "0414076A594985",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0417036A594985",
+      "coordinates": {
+        "latitude": 24.14576799549375,
+        "longitude": 120.6833409983274
+      },
+      "sourceRecordId": "0417036A594985",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04185D6A594981",
+      "coordinates": {
+        "latitude": 24.14815199814244,
+        "longitude": 120.7298930020532
+      },
+      "sourceRecordId": "04185D6A594981",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0419866A594981",
+      "coordinates": {
+        "latitude": 24.12955179127141,
+        "longitude": 120.6420517195102
+      },
+      "sourceRecordId": "0419866A594981",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:041E5E6A594981",
+      "coordinates": {
+        "latitude": 24.14424436253115,
+        "longitude": 120.657179209753
+      },
+      "sourceRecordId": "041E5E6A594981",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:041F576A594980",
+      "coordinates": {
+        "latitude": 24.16272733541034,
+        "longitude": 120.6921798875793
+      },
+      "sourceRecordId": "041F576A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0420CC6A594980",
+      "coordinates": {
+        "latitude": 24.18541062054956,
+        "longitude": 120.6385119263278
+      },
+      "sourceRecordId": "0420CC6A594980",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0421A96A594980",
+      "coordinates": {
+        "latitude": 24.15090984325304,
+        "longitude": 120.6452245480942
+      },
+      "sourceRecordId": "0421A96A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0421B16A594981",
+      "coordinates": {
+        "latitude": 24.1950791762074,
+        "longitude": 120.6458839730246
+      },
+      "sourceRecordId": "0421B16A594981",
+      "speciesDisplayValue": "華盛頓椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0421F68AD44881",
+      "coordinates": {
+        "latitude": 24.15983799564784,
+        "longitude": 120.6459520013293
+      },
+      "sourceRecordId": "0421F68AD44881",
+      "speciesDisplayValue": "臺灣五葉松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0422DD6A594981",
+      "coordinates": {
+        "latitude": 24.13215159320753,
+        "longitude": 120.6396076286232
+      },
+      "sourceRecordId": "0422DD6A594981",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0427B26A594980",
+      "coordinates": {
+        "latitude": 24.1577640028069,
+        "longitude": 120.6817850048136
+      },
+      "sourceRecordId": "0427B26A594980",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:042AB06A594980",
+      "coordinates": {
+        "latitude": 24.14359888452458,
+        "longitude": 120.6574404521108
+      },
+      "sourceRecordId": "042AB06A594980",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:042FCA6A594980",
+      "coordinates": {
+        "latitude": 24.16199890892386,
+        "longitude": 120.6310267196741
+      },
+      "sourceRecordId": "042FCA6A594980",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0432F66A594981",
+      "coordinates": {
+        "latitude": 24.18474656511781,
+        "longitude": 120.6586013773361
+      },
+      "sourceRecordId": "0432F66A594981",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0435D06A594980",
+      "coordinates": {
+        "latitude": 24.20136525508476,
+        "longitude": 120.6772444826841
+      },
+      "sourceRecordId": "0435D06A594980",
+      "speciesDisplayValue": "大葉山欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:043A376A594981",
+      "coordinates": {
+        "latitude": 24.13017891420234,
+        "longitude": 120.6500975405636
+      },
+      "sourceRecordId": "043A376A594981",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:043C3B6A594981",
+      "coordinates": {
+        "latitude": 24.15801607999421,
+        "longitude": 120.6440011449058
+      },
+      "sourceRecordId": "043C3B6A594981",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:043D2A6A594981",
+      "coordinates": {
+        "latitude": 24.16216489088995,
+        "longitude": 120.664452354758
+      },
+      "sourceRecordId": "043D2A6A594981",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:043F396A594980",
+      "coordinates": {
+        "latitude": 24.16237976494858,
+        "longitude": 120.7228561997358
+      },
+      "sourceRecordId": "043F396A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04403D6A594981",
+      "coordinates": {
+        "latitude": 24.23415900130662,
+        "longitude": 120.5642460005986
+      },
+      "sourceRecordId": "04403D6A594981",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04408F6A594981",
+      "coordinates": {
+        "latitude": 24.16757888216419,
+        "longitude": 120.6945232233558
+      },
+      "sourceRecordId": "04408F6A594981",
+      "speciesDisplayValue": "洋紅風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0440936A594980",
+      "coordinates": {
+        "latitude": 24.14783299608962,
+        "longitude": 120.7309229978266
+      },
+      "sourceRecordId": "0440936A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0444E46A594981",
+      "coordinates": {
+        "latitude": 24.13030385171537,
+        "longitude": 120.627042643287
+      },
+      "sourceRecordId": "0444E46A594981",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04462B6A594981",
+      "coordinates": {
+        "latitude": 24.15955799995082,
+        "longitude": 120.6468879999367
+      },
+      "sourceRecordId": "04462B6A594981",
+      "speciesDisplayValue": "香楠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0449366A594981",
+      "coordinates": {
+        "latitude": 24.15113023755926,
+        "longitude": 120.6420531157649
+      },
+      "sourceRecordId": "0449366A594981",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044DAC6A594980",
+      "coordinates": {
+        "latitude": 24.13450782585761,
+        "longitude": 120.6559700377252
+      },
+      "sourceRecordId": "044DAC6A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044DDE6A594981",
+      "coordinates": {
+        "latitude": 24.14653042337842,
+        "longitude": 120.6872790041974
+      },
+      "sourceRecordId": "044DDE6A594981",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044EA66A594980",
+      "coordinates": {
+        "latitude": 24.16295462296321,
+        "longitude": 120.6485302585252
+      },
+      "sourceRecordId": "044EA66A594980",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044F936A594980",
+      "coordinates": {
+        "latitude": 24.116320475566,
+        "longitude": 120.6506839068732
+      },
+      "sourceRecordId": "044F936A594980",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044FAF6A594980",
+      "coordinates": {
+        "latitude": 24.15990000082657,
+        "longitude": 120.6464470044828
+      },
+      "sourceRecordId": "044FAF6A594980",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:044FD06A594981",
+      "coordinates": {
+        "latitude": 24.18816898263355,
+        "longitude": 120.6858752851462
+      },
+      "sourceRecordId": "044FD06A594981",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0451936A594980",
+      "coordinates": {
+        "latitude": 24.2338880030348,
+        "longitude": 120.5642939993422
+      },
+      "sourceRecordId": "0451936A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0455AA6A594980",
+      "coordinates": {
+        "latitude": 24.25985800088625,
+        "longitude": 120.7201279973427
+      },
+      "sourceRecordId": "0455AA6A594980",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0456406A594980",
+      "coordinates": {
+        "latitude": 24.14506369981838,
+        "longitude": 120.6291425103478
+      },
+      "sourceRecordId": "0456406A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0456AF6A594980",
+      "coordinates": {
+        "latitude": 24.19488807538142,
+        "longitude": 120.594684624965
+      },
+      "sourceRecordId": "0456AF6A594980",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0456B46A594981",
+      "coordinates": {
+        "latitude": 24.15706608454079,
+        "longitude": 120.6285141612143
+      },
+      "sourceRecordId": "0456B46A594981",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0459436A594981",
+      "coordinates": {
+        "latitude": 24.13016169848092,
+        "longitude": 120.6437217306426
+      },
+      "sourceRecordId": "0459436A594981",
+      "speciesDisplayValue": "錫蘭橄欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045BA16A594980",
+      "coordinates": {
+        "latitude": 24.15837018125254,
+        "longitude": 120.6397542045819
+      },
+      "sourceRecordId": "045BA16A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045C426A594981",
+      "coordinates": {
+        "latitude": 24.13345920129645,
+        "longitude": 120.6433312413682
+      },
+      "sourceRecordId": "045C426A594981",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045CDD6A594981",
+      "coordinates": {
+        "latitude": 24.25731299612829,
+        "longitude": 120.7178659984603
+      },
+      "sourceRecordId": "045CDD6A594981",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045E946A594980",
+      "coordinates": {
+        "latitude": 24.13428477036523,
+        "longitude": 120.623496822091
+      },
+      "sourceRecordId": "045E946A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045EB06A594980",
+      "coordinates": {
+        "latitude": 24.18967428831803,
+        "longitude": 120.6618871473576
+      },
+      "sourceRecordId": "045EB06A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:045FE46A594980",
+      "coordinates": {
+        "latitude": 24.17141105261311,
+        "longitude": 120.6853007586945
+      },
+      "sourceRecordId": "045FE46A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0461896A594981",
+      "coordinates": {
+        "latitude": 24.16159020708737,
+        "longitude": 120.6326088032738
+      },
+      "sourceRecordId": "0461896A594981",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0463456A594981",
+      "coordinates": {
+        "latitude": 24.15218727824888,
+        "longitude": 120.6249687603032
+      },
+      "sourceRecordId": "0463456A594981",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0463486A594981",
+      "coordinates": {
+        "latitude": 24.14601682153378,
+        "longitude": 120.638708897631
+      },
+      "sourceRecordId": "0463486A594981",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0463AF6A594980",
+      "coordinates": {
+        "latitude": 24.14333654646782,
+        "longitude": 120.6574401180704
+      },
+      "sourceRecordId": "0463AF6A594980",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0464536A594980",
+      "coordinates": {
+        "latitude": 24.19398368460309,
+        "longitude": 120.6071118462354
+      },
+      "sourceRecordId": "0464536A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0464856A594980",
+      "coordinates": {
+        "latitude": 24.15391792714041,
+        "longitude": 120.6339527578066
+      },
+      "sourceRecordId": "0464856A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04651C6A594980",
+      "coordinates": {
+        "latitude": 24.15836143382089,
+        "longitude": 120.6259758384197
+      },
+      "sourceRecordId": "04651C6A594980",
+      "speciesDisplayValue": "大葉山欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:046B5B6A594981",
+      "coordinates": {
+        "latitude": 24.15488952055319,
+        "longitude": 120.5985471838587
+      },
+      "sourceRecordId": "046B5B6A594981",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:046BBA6A594980",
+      "coordinates": {
+        "latitude": 24.16907886489014,
+        "longitude": 120.6948933116386
+      },
+      "sourceRecordId": "046BBA6A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:046DCF6A594981",
+      "coordinates": {
+        "latitude": 24.18433744760672,
+        "longitude": 120.6104742911639
+      },
+      "sourceRecordId": "046DCF6A594981",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:046E336A594980",
+      "coordinates": {
+        "latitude": 24.18424447553829,
+        "longitude": 120.6187005320966
+      },
+      "sourceRecordId": "046E336A594980",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0470B06A594981",
+      "coordinates": {
+        "latitude": 24.15137706676894,
+        "longitude": 120.6403499491208
+      },
+      "sourceRecordId": "0470B06A594981",
+      "speciesDisplayValue": "美人樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04722A6A594980",
+      "coordinates": {
+        "latitude": 24.12607011706115,
+        "longitude": 120.6310295485293
+      },
+      "sourceRecordId": "04722A6A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0475BE6A594980",
+      "coordinates": {
+        "latitude": 24.19577918369854,
+        "longitude": 120.6472263963775
+      },
+      "sourceRecordId": "0475BE6A594980",
+      "speciesDisplayValue": "華盛頓椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0478E56A594980",
+      "coordinates": {
+        "latitude": 24.15696099957963,
+        "longitude": 120.6818929979287
+      },
+      "sourceRecordId": "0478E56A594980",
+      "speciesDisplayValue": "雞冠刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0479BE6A594980",
+      "coordinates": {
+        "latitude": 24.1249218569122,
+        "longitude": 120.6675434225429
+      },
+      "sourceRecordId": "0479BE6A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:047B9B6A594980",
+      "coordinates": {
+        "latitude": 24.1628950068693,
+        "longitude": 120.6714000814718
+      },
+      "sourceRecordId": "047B9B6A594980",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:047CD86A594980",
+      "coordinates": {
+        "latitude": 24.14518600140772,
+        "longitude": 120.6860640006284
+      },
+      "sourceRecordId": "047CD86A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:047FA06A594981",
+      "coordinates": {
+        "latitude": 24.13364504125679,
+        "longitude": 120.6243677719802
+      },
+      "sourceRecordId": "047FA06A594981",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0482966A594980",
+      "coordinates": {
+        "latitude": 24.17379500031793,
+        "longitude": 120.7276849971398
+      },
+      "sourceRecordId": "0482966A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0482FB6A594980",
+      "coordinates": {
+        "latitude": 24.18009583101907,
+        "longitude": 120.6671945893431
+      },
+      "sourceRecordId": "0482FB6A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04842E6A594980",
+      "coordinates": {
+        "latitude": 24.18555850429206,
+        "longitude": 120.614455672238
+      },
+      "sourceRecordId": "04842E6A594980",
+      "speciesDisplayValue": "芒果"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04858D6A594981",
+      "coordinates": {
+        "latitude": 24.1301951832521,
+        "longitude": 120.6633687703754
+      },
+      "sourceRecordId": "04858D6A594981",
+      "speciesDisplayValue": "木棉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04859D6A594980",
+      "coordinates": {
+        "latitude": 24.16689889353525,
+        "longitude": 120.6943331885024
+      },
+      "sourceRecordId": "04859D6A594980",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0485CB6A594980",
+      "coordinates": {
+        "latitude": 24.17517887254273,
+        "longitude": 120.6384255967192
+      },
+      "sourceRecordId": "0485CB6A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04890E6A594984",
+      "coordinates": {
+        "latitude": 24.15596344465992,
+        "longitude": 120.644957965707
+      },
+      "sourceRecordId": "04890E6A594984",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0489AA6A594980",
+      "coordinates": {
+        "latitude": 24.17374300368133,
+        "longitude": 120.729660998431
+      },
+      "sourceRecordId": "0489AA6A594980",
+      "speciesDisplayValue": "火焰木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:048D966A594980",
+      "coordinates": {
+        "latitude": 24.13759160146353,
+        "longitude": 120.6232878176744
+      },
+      "sourceRecordId": "048D966A594980",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04910C6A594980",
+      "coordinates": {
+        "latitude": 24.16328486838227,
+        "longitude": 120.6778324549024
+      },
+      "sourceRecordId": "04910C6A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0491536A594980",
+      "coordinates": {
+        "latitude": 24.14660800040999,
+        "longitude": 120.6442229956125
+      },
+      "sourceRecordId": "0491536A594980",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0491E26A594980",
+      "coordinates": {
+        "latitude": 24.14513799988308,
+        "longitude": 120.6846090000436
+      },
+      "sourceRecordId": "0491E26A594980",
+      "speciesDisplayValue": "黃椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0493F86A594980",
+      "coordinates": {
+        "latitude": 24.20137619369238,
+        "longitude": 120.6792991445062
+      },
+      "sourceRecordId": "0493F86A594980",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04958E6A594980",
+      "coordinates": {
+        "latitude": 24.17187664807781,
+        "longitude": 120.6862651409607
+      },
+      "sourceRecordId": "04958E6A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0497006A594984",
+      "coordinates": {
+        "latitude": 24.16319733836019,
+        "longitude": 120.6181344861985
+      },
+      "sourceRecordId": "0497006A594984",
+      "speciesDisplayValue": "杜英"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:0499CB6A594980",
+      "coordinates": {
+        "latitude": 24.20150435860076,
+        "longitude": 120.5971043429265
+      },
+      "sourceRecordId": "0499CB6A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:049ACB6A594980",
+      "coordinates": {
+        "latitude": 24.15238613454128,
+        "longitude": 120.6034302956859
+      },
+      "sourceRecordId": "049ACB6A594980",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:049CDC6A594980",
+      "coordinates": {
+        "latitude": 24.14464299915307,
+        "longitude": 120.6851710017315
+      },
+      "sourceRecordId": "049CDC6A594980",
+      "speciesDisplayValue": "紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:049E056A594984",
+      "coordinates": {
+        "latitude": 24.19138292501063,
+        "longitude": 120.6165626021616
+      },
+      "sourceRecordId": "049E056A594984",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04A0276A594980",
+      "coordinates": {
+        "latitude": 24.14626707854134,
+        "longitude": 120.6497813585217
+      },
+      "sourceRecordId": "04A0276A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04A0436A594980",
+      "coordinates": {
+        "latitude": 24.14481299724535,
+        "longitude": 120.6460529993629
+      },
+      "sourceRecordId": "04A0436A594980",
+      "speciesDisplayValue": "金龜樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04A5EC6A594980",
+      "coordinates": {
+        "latitude": 24.16123436770575,
+        "longitude": 120.7257434949559
+      },
+      "sourceRecordId": "04A5EC6A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04A9FA6A594980",
+      "coordinates": {
+        "latitude": 24.1942041424411,
+        "longitude": 120.5947124191295
+      },
+      "sourceRecordId": "04A9FA6A594980",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04AA906A594980",
+      "coordinates": {
+        "latitude": 24.18494115025027,
+        "longitude": 120.6646281718419
+      },
+      "sourceRecordId": "04AA906A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04ACEB6A594980",
+      "coordinates": {
+        "latitude": 24.14421522632771,
+        "longitude": 120.6428335734649
+      },
+      "sourceRecordId": "04ACEB6A594980",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04AE346A594980",
+      "coordinates": {
+        "latitude": 24.20141134622662,
+        "longitude": 120.6904685405739
+      },
+      "sourceRecordId": "04AE346A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04AF576A594980",
+      "coordinates": {
+        "latitude": 24.14554300345521,
+        "longitude": 120.6838769962261
+      },
+      "sourceRecordId": "04AF576A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04AFA26A594980",
+      "coordinates": {
+        "latitude": 24.19911943613344,
+        "longitude": 120.6534939550935
+      },
+      "sourceRecordId": "04AFA26A594980",
+      "speciesDisplayValue": "華盛頓椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04B09C6A594980",
+      "coordinates": {
+        "latitude": 24.13059179042141,
+        "longitude": 120.6420917807758
+      },
+      "sourceRecordId": "04B09C6A594980",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04B1ED6A594980",
+      "coordinates": {
+        "latitude": 24.16828199960899,
+        "longitude": 120.7319549986917
+      },
+      "sourceRecordId": "04B1ED6A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04B62F6A594980",
+      "coordinates": {
+        "latitude": 24.14635300048578,
+        "longitude": 120.6438999998162
+      },
+      "sourceRecordId": "04B62F6A594980",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04BB516A594980",
+      "coordinates": {
+        "latitude": 24.14659269278369,
+        "longitude": 120.6499663169949
+      },
+      "sourceRecordId": "04BB516A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04BC096A594984",
+      "coordinates": {
+        "latitude": 24.15397474982033,
+        "longitude": 120.6877565613055
+      },
+      "sourceRecordId": "04BC096A594984",
+      "speciesDisplayValue": "象牙木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04BCDC6A594980",
+      "coordinates": {
+        "latitude": 24.12175617792408,
+        "longitude": 120.6635780786875
+      },
+      "sourceRecordId": "04BCDC6A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04BD8B6A594980",
+      "coordinates": {
+        "latitude": 24.16142915683587,
+        "longitude": 120.6512975535056
+      },
+      "sourceRecordId": "04BD8B6A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C0136A594980",
+      "coordinates": {
+        "latitude": 24.13055178088925,
+        "longitude": 120.6422417740053
+      },
+      "sourceRecordId": "04C0136A594980",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C0166A594980",
+      "coordinates": {
+        "latitude": 24.20220762018973,
+        "longitude": 120.5974171044809
+      },
+      "sourceRecordId": "04C0166A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C0B76A594980",
+      "coordinates": {
+        "latitude": 24.15900025727541,
+        "longitude": 120.6422851104558
+      },
+      "sourceRecordId": "04C0B76A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C11D6A594980",
+      "coordinates": {
+        "latitude": 24.15458463559788,
+        "longitude": 120.6422162023488
+      },
+      "sourceRecordId": "04C11D6A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C6966A594980",
+      "coordinates": {
+        "latitude": 24.16220999944061,
+        "longitude": 120.6423269999906
+      },
+      "sourceRecordId": "04C6966A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C7D86A594980",
+      "coordinates": {
+        "latitude": 24.1553632157665,
+        "longitude": 120.6407036781117
+      },
+      "sourceRecordId": "04C7D86A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C8326A594980",
+      "coordinates": {
+        "latitude": 24.17910732133958,
+        "longitude": 120.6367970944773
+      },
+      "sourceRecordId": "04C8326A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C89D6A594980",
+      "coordinates": {
+        "latitude": 24.16622086702929,
+        "longitude": 120.6433777326269
+      },
+      "sourceRecordId": "04C89D6A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04C9B06A594980",
+      "coordinates": {
+        "latitude": 24.15661266193026,
+        "longitude": 120.6601223288383
+      },
+      "sourceRecordId": "04C9B06A594980",
+      "speciesDisplayValue": "臺灣海棗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04CACE6A594980",
+      "coordinates": {
+        "latitude": 24.14856799837014,
+        "longitude": 120.7319059981239
+      },
+      "sourceRecordId": "04CACE6A594980",
+      "speciesDisplayValue": "芒果"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04CB726A594980",
+      "coordinates": {
+        "latitude": 24.19349169368849,
+        "longitude": 120.5948483150155
+      },
+      "sourceRecordId": "04CB726A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04CB926A594980",
+      "coordinates": {
+        "latitude": 24.18504011043403,
+        "longitude": 120.662594187011
+      },
+      "sourceRecordId": "04CB926A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04CD926A594980",
+      "coordinates": {
+        "latitude": 24.15859221760036,
+        "longitude": 120.6391456179758
+      },
+      "sourceRecordId": "04CD926A594980",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D0F26A594980",
+      "coordinates": {
+        "latitude": 24.18285369791479,
+        "longitude": 120.7018764712117
+      },
+      "sourceRecordId": "04D0F26A594980",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D2616A594980",
+      "coordinates": {
+        "latitude": 24.148687900147,
+        "longitude": 120.6399735174666
+      },
+      "sourceRecordId": "04D2616A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D2A06A594980",
+      "coordinates": {
+        "latitude": 24.12956758463525,
+        "longitude": 120.6497351763661
+      },
+      "sourceRecordId": "04D2A06A594980",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D2D86A594980",
+      "coordinates": {
+        "latitude": 24.14473999788004,
+        "longitude": 120.6842819978372
+      },
+      "sourceRecordId": "04D2D86A594980",
+      "speciesDisplayValue": "大王椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D3546A594980",
+      "coordinates": {
+        "latitude": 24.16124249099735,
+        "longitude": 120.6368822431401
+      },
+      "sourceRecordId": "04D3546A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D5236A594980",
+      "coordinates": {
+        "latitude": 24.15112845269043,
+        "longitude": 120.6343455750571
+      },
+      "sourceRecordId": "04D5236A594980",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04D9B46A594980",
+      "coordinates": {
+        "latitude": 24.15128446577857,
+        "longitude": 120.6281186614596
+      },
+      "sourceRecordId": "04D9B46A594980",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04DB086A594984",
+      "coordinates": {
+        "latitude": 24.12159634384275,
+        "longitude": 120.6598731915627
+      },
+      "sourceRecordId": "04DB086A594984",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04DB8F6A594980",
+      "coordinates": {
+        "latitude": 24.16367422982164,
+        "longitude": 120.6367057745548
+      },
+      "sourceRecordId": "04DB8F6A594980",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04DCA26A594980",
+      "coordinates": {
+        "latitude": 24.13585237182747,
+        "longitude": 120.6359055783189
+      },
+      "sourceRecordId": "04DCA26A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04E2A76A594980",
+      "coordinates": {
+        "latitude": 24.14109713935331,
+        "longitude": 120.6468850613105
+      },
+      "sourceRecordId": "04E2A76A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04E4E26A594980",
+      "coordinates": {
+        "latitude": 24.16347219381581,
+        "longitude": 120.6455853684739
+      },
+      "sourceRecordId": "04E4E26A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04E6936A594980",
+      "coordinates": {
+        "latitude": 24.16672489371472,
+        "longitude": 120.6383821406825
+      },
+      "sourceRecordId": "04E6936A594980",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04EC426A594980",
+      "coordinates": {
+        "latitude": 24.17007888440001,
+        "longitude": 120.6944233851855
+      },
+      "sourceRecordId": "04EC426A594980",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04ED036A594984",
+      "coordinates": {
+        "latitude": 24.23431600390543,
+        "longitude": 120.5656089956057
+      },
+      "sourceRecordId": "04ED036A594984",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04ED096A594984",
+      "coordinates": {
+        "latitude": 24.15359170697577,
+        "longitude": 120.6674588571581
+      },
+      "sourceRecordId": "04ED096A594984",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04ED1F6A594980",
+      "coordinates": {
+        "latitude": 24.15424602729873,
+        "longitude": 120.6498608111995
+      },
+      "sourceRecordId": "04ED1F6A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04ED936A594980",
+      "coordinates": {
+        "latitude": 24.14592500044013,
+        "longitude": 120.6463649984034
+      },
+      "sourceRecordId": "04ED936A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04EEDE6A594980",
+      "coordinates": {
+        "latitude": 24.13945974271684,
+        "longitude": 120.6259098240928
+      },
+      "sourceRecordId": "04EEDE6A594980",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04EEFF6A594980",
+      "coordinates": {
+        "latitude": 24.13182172888002,
+        "longitude": 120.6432118439544
+      },
+      "sourceRecordId": "04EEFF6A594980",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04EF526A594980",
+      "coordinates": {
+        "latitude": 24.15840177336565,
+        "longitude": 120.6569928598115
+      },
+      "sourceRecordId": "04EF526A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04F44C6A594980",
+      "coordinates": {
+        "latitude": 24.18470499097823,
+        "longitude": 120.6596133872905
+      },
+      "sourceRecordId": "04F44C6A594980",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04F5D46A594980",
+      "coordinates": {
+        "latitude": 24.18953966521372,
+        "longitude": 120.6395116161239
+      },
+      "sourceRecordId": "04F5D46A594980",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04F63B6A594980",
+      "coordinates": {
+        "latitude": 24.15586800186073,
+        "longitude": 120.6817539996716
+      },
+      "sourceRecordId": "04F63B6A594980",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04F6A36A594980",
+      "coordinates": {
+        "latitude": 24.18258647584377,
+        "longitude": 120.623957901732
+      },
+      "sourceRecordId": "04F6A36A594980",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04F7146A594980",
+      "coordinates": {
+        "latitude": 24.1449739972873,
+        "longitude": 120.6458150047677
+      },
+      "sourceRecordId": "04F7146A594980",
+      "speciesDisplayValue": "金龜樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:04FB8C6A594980",
+      "coordinates": {
+        "latitude": 24.19392579934836,
+        "longitude": 120.65916298793
+      },
+      "sourceRecordId": "04FB8C6A594980",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:105TC_M0000000000047",
+      "coordinates": {
+        "latitude": 24.15568671628078,
+        "longitude": 120.5971814934068
+      },
+      "sourceRecordId": "105TC_M0000000000047",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:105TC_M0000000000154",
+      "coordinates": {
+        "latitude": 24.16579602742349,
+        "longitude": 120.6319718952531
+      },
+      "sourceRecordId": "105TC_M0000000000154",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:105TC_M0000000000238",
+      "coordinates": {
+        "latitude": 24.14170219711345,
+        "longitude": 120.6283108044641
+      },
+      "sourceRecordId": "105TC_M0000000000238",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT00614310010",
+      "coordinates": {
+        "latitude": 24.17603286412722,
+        "longitude": 120.6809822138985
+      },
+      "sourceRecordId": "107TC_BT00614310010",
+      "speciesDisplayValue": "桑樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT00614310078",
+      "coordinates": {
+        "latitude": 24.17319632675777,
+        "longitude": 120.6796475698786
+      },
+      "sourceRecordId": "107TC_BT00614310078",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080740055",
+      "coordinates": {
+        "latitude": 24.16478956011891,
+        "longitude": 120.696962897282
+      },
+      "sourceRecordId": "107TC_BT0080740055",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080760085",
+      "coordinates": {
+        "latitude": 24.16808289551729,
+        "longitude": 120.712777443825
+      },
+      "sourceRecordId": "107TC_BT0080760085",
+      "speciesDisplayValue": "刺杜密"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080760168",
+      "coordinates": {
+        "latitude": 24.16759225047785,
+        "longitude": 120.7123836157448
+      },
+      "sourceRecordId": "107TC_BT0080760168",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080760206",
+      "coordinates": {
+        "latitude": 24.16745991743177,
+        "longitude": 120.7131894726958
+      },
+      "sourceRecordId": "107TC_BT0080760206",
+      "speciesDisplayValue": "鐵色"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080790015",
+      "coordinates": {
+        "latitude": 24.17411159053215,
+        "longitude": 120.7108484924429
+      },
+      "sourceRecordId": "107TC_BT0080790015",
+      "speciesDisplayValue": "桃"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080790143",
+      "coordinates": {
+        "latitude": 24.17221050723946,
+        "longitude": 120.707617991724
+      },
+      "sourceRecordId": "107TC_BT0080790143",
+      "speciesDisplayValue": "穗花棋盤腳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080800116",
+      "coordinates": {
+        "latitude": 24.17757335042156,
+        "longitude": 120.7106585618427
+      },
+      "sourceRecordId": "107TC_BT0080800116",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080820187",
+      "coordinates": {
+        "latitude": 24.18132017053907,
+        "longitude": 120.7198098220134
+      },
+      "sourceRecordId": "107TC_BT0080820187",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0080840082",
+      "coordinates": {
+        "latitude": 24.17065999689202,
+        "longitude": 120.7226534241135
+      },
+      "sourceRecordId": "107TC_BT0080840082",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081000060",
+      "coordinates": {
+        "latitude": 24.17202726204032,
+        "longitude": 120.7339267642119
+      },
+      "sourceRecordId": "107TC_BT0081000060",
+      "speciesDisplayValue": "龍柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081020007",
+      "coordinates": {
+        "latitude": 24.19749021165013,
+        "longitude": 120.6630987210293
+      },
+      "sourceRecordId": "107TC_BT0081020007",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081150050",
+      "coordinates": {
+        "latitude": 24.18000996577226,
+        "longitude": 120.6918594257933
+      },
+      "sourceRecordId": "107TC_BT0081150050",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081180054",
+      "coordinates": {
+        "latitude": 24.18200789352692,
+        "longitude": 120.6996703894133
+      },
+      "sourceRecordId": "107TC_BT0081180054",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081180807",
+      "coordinates": {
+        "latitude": 24.18000705327526,
+        "longitude": 120.6998142587229
+      },
+      "sourceRecordId": "107TC_BT0081180807",
+      "speciesDisplayValue": "澳洲鴨腳木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081181030",
+      "coordinates": {
+        "latitude": 24.1811097249979,
+        "longitude": 120.7003271947684
+      },
+      "sourceRecordId": "107TC_BT0081181030",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081181165",
+      "coordinates": {
+        "latitude": 24.18019347556021,
+        "longitude": 120.6999812993812
+      },
+      "sourceRecordId": "107TC_BT0081181165",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081181275",
+      "coordinates": {
+        "latitude": 24.18014823002333,
+        "longitude": 120.7002982011635
+      },
+      "sourceRecordId": "107TC_BT0081181275",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081181344",
+      "coordinates": {
+        "latitude": 24.18045716517678,
+        "longitude": 120.7004994980187
+      },
+      "sourceRecordId": "107TC_BT0081181344",
+      "speciesDisplayValue": "賽赤楠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081181395",
+      "coordinates": {
+        "latitude": 24.18075202186994,
+        "longitude": 120.6993552843416
+      },
+      "sourceRecordId": "107TC_BT0081181395",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081220086",
+      "coordinates": {
+        "latitude": 24.18201433439128,
+        "longitude": 120.6870429464915
+      },
+      "sourceRecordId": "107TC_BT0081220086",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081230147",
+      "coordinates": {
+        "latitude": 24.18776629494364,
+        "longitude": 120.6883914943017
+      },
+      "sourceRecordId": "107TC_BT0081230147",
+      "speciesDisplayValue": "洋紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081230309",
+      "coordinates": {
+        "latitude": 24.18800113882843,
+        "longitude": 120.68919727356
+      },
+      "sourceRecordId": "107TC_BT0081230309",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081250076",
+      "coordinates": {
+        "latitude": 24.19532651945357,
+        "longitude": 120.6806039242113
+      },
+      "sourceRecordId": "107TC_BT0081250076",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081250460",
+      "coordinates": {
+        "latitude": 24.19472006230924,
+        "longitude": 120.6815583648723
+      },
+      "sourceRecordId": "107TC_BT0081250460",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081250514",
+      "coordinates": {
+        "latitude": 24.19513740994735,
+        "longitude": 120.6810131032942
+      },
+      "sourceRecordId": "107TC_BT0081250514",
+      "speciesDisplayValue": "大王椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081320016",
+      "coordinates": {
+        "latitude": 24.17374589934191,
+        "longitude": 120.6922787965039
+      },
+      "sourceRecordId": "107TC_BT0081320016",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081330006",
+      "coordinates": {
+        "latitude": 24.18940753469103,
+        "longitude": 120.6826012220104
+      },
+      "sourceRecordId": "107TC_BT0081330006",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081400132",
+      "coordinates": {
+        "latitude": 24.18838408640964,
+        "longitude": 120.6666246818183
+      },
+      "sourceRecordId": "107TC_BT0081400132",
+      "speciesDisplayValue": "刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081400269",
+      "coordinates": {
+        "latitude": 24.188246281153,
+        "longitude": 120.6670002434553
+      },
+      "sourceRecordId": "107TC_BT0081400269",
+      "speciesDisplayValue": "無患子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0081410086",
+      "coordinates": {
+        "latitude": 24.17823296064447,
+        "longitude": 120.7340669766502
+      },
+      "sourceRecordId": "107TC_BT0081410086",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0085120070",
+      "coordinates": {
+        "latitude": 24.18593698356853,
+        "longitude": 120.6628990704134
+      },
+      "sourceRecordId": "107TC_BT0085120070",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0085120485",
+      "coordinates": {
+        "latitude": 24.18576940231418,
+        "longitude": 120.6614858771743
+      },
+      "sourceRecordId": "107TC_BT0085120485",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0085120487",
+      "coordinates": {
+        "latitude": 24.18574599420655,
+        "longitude": 120.6614351565417
+      },
+      "sourceRecordId": "107TC_BT0085120487",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0085220281",
+      "coordinates": {
+        "latitude": 24.17956736730171,
+        "longitude": 120.7061809589134
+      },
+      "sourceRecordId": "107TC_BT0085220281",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT0085220408",
+      "coordinates": {
+        "latitude": 24.1793588487619,
+        "longitude": 120.7082425660382
+      },
+      "sourceRecordId": "107TC_BT0085220408",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT00913710106",
+      "coordinates": {
+        "latitude": 24.16301056404203,
+        "longitude": 120.6994697115875
+      },
+      "sourceRecordId": "107TC_BT00913710106",
+      "speciesDisplayValue": "艷紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT01600110007",
+      "coordinates": {
+        "latitude": 24.16831368593285,
+        "longitude": 120.7006255437692
+      },
+      "sourceRecordId": "107TC_BT01600110007",
+      "speciesDisplayValue": "木棉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102110148",
+      "coordinates": {
+        "latitude": 24.17322336329406,
+        "longitude": 120.7297760283558
+      },
+      "sourceRecordId": "107TC_BT03102110148",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102110199",
+      "coordinates": {
+        "latitude": 24.16836304629218,
+        "longitude": 120.7273595126358
+      },
+      "sourceRecordId": "107TC_BT03102110199",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210005",
+      "coordinates": {
+        "latitude": 24.17757603407752,
+        "longitude": 120.7373021026027
+      },
+      "sourceRecordId": "107TC_BT03102210005",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210050",
+      "coordinates": {
+        "latitude": 24.17621724477974,
+        "longitude": 120.7354605569552
+      },
+      "sourceRecordId": "107TC_BT03102210050",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210212",
+      "coordinates": {
+        "latitude": 24.17074605091519,
+        "longitude": 120.7282591218327
+      },
+      "sourceRecordId": "107TC_BT03102210212",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210239",
+      "coordinates": {
+        "latitude": 24.16940609702122,
+        "longitude": 120.727689642103
+      },
+      "sourceRecordId": "107TC_BT03102210239",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210248",
+      "coordinates": {
+        "latitude": 24.1684425606459,
+        "longitude": 120.7274870847904
+      },
+      "sourceRecordId": "107TC_BT03102210248",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03102210336",
+      "coordinates": {
+        "latitude": 24.16246622159254,
+        "longitude": 120.7279433884533
+      },
+      "sourceRecordId": "107TC_BT03102210336",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03111310044",
+      "coordinates": {
+        "latitude": 24.16524020830432,
+        "longitude": 120.7284704554772
+      },
+      "sourceRecordId": "107TC_BT03111310044",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03112210015",
+      "coordinates": {
+        "latitude": 24.17024048442189,
+        "longitude": 120.7291540097071
+      },
+      "sourceRecordId": "107TC_BT03112210015",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03601110028",
+      "coordinates": {
+        "latitude": 24.18234011584366,
+        "longitude": 120.714213526463
+      },
+      "sourceRecordId": "107TC_BT03601110028",
+      "speciesDisplayValue": "刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03601410001",
+      "coordinates": {
+        "latitude": 24.18209814747219,
+        "longitude": 120.7047496119813
+      },
+      "sourceRecordId": "107TC_BT03601410001",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03601410014",
+      "coordinates": {
+        "latitude": 24.18219931058843,
+        "longitude": 120.7122343727544
+      },
+      "sourceRecordId": "107TC_BT03601410014",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03604510022",
+      "coordinates": {
+        "latitude": 24.18247057748853,
+        "longitude": 120.7163784249969
+      },
+      "sourceRecordId": "107TC_BT03604510022",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT03604510053",
+      "coordinates": {
+        "latitude": 24.18181898050705,
+        "longitude": 120.7229401017709
+      },
+      "sourceRecordId": "107TC_BT03604510053",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05002310011",
+      "coordinates": {
+        "latitude": 24.1806433265348,
+        "longitude": 120.7132872429175
+      },
+      "sourceRecordId": "107TC_BT05002310011",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05110310048",
+      "coordinates": {
+        "latitude": 24.157930389127,
+        "longitude": 120.7292184707232
+      },
+      "sourceRecordId": "107TC_BT05110310048",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05200410043",
+      "coordinates": {
+        "latitude": 24.1697222751334,
+        "longitude": 120.721602051044
+      },
+      "sourceRecordId": "107TC_BT05200410043",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05200410120",
+      "coordinates": {
+        "latitude": 24.1688727512274,
+        "longitude": 120.7320011183906
+      },
+      "sourceRecordId": "107TC_BT05200410120",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05400410004",
+      "coordinates": {
+        "latitude": 24.1800141938315,
+        "longitude": 120.7028882810689
+      },
+      "sourceRecordId": "107TC_BT05400410004",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05400410066",
+      "coordinates": {
+        "latitude": 24.18005125847017,
+        "longitude": 120.7120513000085
+      },
+      "sourceRecordId": "107TC_BT05400410066",
+      "speciesDisplayValue": "破朴子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_BT05400510030",
+      "coordinates": {
+        "latitude": 24.18019002968666,
+        "longitude": 120.7060278181555
+      },
+      "sourceRecordId": "107TC_BT05400510030",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083580081",
+      "coordinates": {
+        "latitude": 24.10946196249353,
+        "longitude": 120.6875535687144
+      },
+      "sourceRecordId": "107TC_DL0083580081",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083650042",
+      "coordinates": {
+        "latitude": 24.1042229832375,
+        "longitude": 120.6847794546861
+      },
+      "sourceRecordId": "107TC_DL0083650042",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083660010",
+      "coordinates": {
+        "latitude": 24.10188583730377,
+        "longitude": 120.6845897232469
+      },
+      "sourceRecordId": "107TC_DL0083660010",
+      "speciesDisplayValue": "大果鐵刀木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083730034",
+      "coordinates": {
+        "latitude": 24.11287902539575,
+        "longitude": 120.6848112632122
+      },
+      "sourceRecordId": "107TC_DL0083730034",
+      "speciesDisplayValue": "陰香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083750012",
+      "coordinates": {
+        "latitude": 24.11816452464506,
+        "longitude": 120.6865478864255
+      },
+      "sourceRecordId": "107TC_DL0083750012",
+      "speciesDisplayValue": "馬拉巴栗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083770142",
+      "coordinates": {
+        "latitude": 24.08441478250203,
+        "longitude": 120.6934724339829
+      },
+      "sourceRecordId": "107TC_DL0083770142",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083800069",
+      "coordinates": {
+        "latitude": 24.08983184002439,
+        "longitude": 120.6912609470441
+      },
+      "sourceRecordId": "107TC_DL0083800069",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083860156",
+      "coordinates": {
+        "latitude": 24.08647537216093,
+        "longitude": 120.7237831176828
+      },
+      "sourceRecordId": "107TC_DL0083860156",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083860339",
+      "coordinates": {
+        "latitude": 24.08648117899514,
+        "longitude": 120.7225914618176
+      },
+      "sourceRecordId": "107TC_DL0083860339",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0083900187",
+      "coordinates": {
+        "latitude": 24.09967991043951,
+        "longitude": 120.6945453936221
+      },
+      "sourceRecordId": "107TC_DL0083900187",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL0084880302",
+      "coordinates": {
+        "latitude": 24.08554142331336,
+        "longitude": 120.6947129967897
+      },
+      "sourceRecordId": "107TC_DL0084880302",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04102410018",
+      "coordinates": {
+        "latitude": 24.10410054050344,
+        "longitude": 120.6792181634611
+      },
+      "sourceRecordId": "107TC_DL04102410018",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04102510003",
+      "coordinates": {
+        "latitude": 24.103283564568,
+        "longitude": 120.6755780018711
+      },
+      "sourceRecordId": "107TC_DL04102510003",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04230110106",
+      "coordinates": {
+        "latitude": 24.10391615241179,
+        "longitude": 120.669083658225
+      },
+      "sourceRecordId": "107TC_DL04230110106",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701110073",
+      "coordinates": {
+        "latitude": 24.09102504952214,
+        "longitude": 120.6516692252203
+      },
+      "sourceRecordId": "107TC_DL04701110073",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701110443",
+      "coordinates": {
+        "latitude": 24.08712949876759,
+        "longitude": 120.6785661491186
+      },
+      "sourceRecordId": "107TC_DL04701110443",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701130082",
+      "coordinates": {
+        "latitude": 24.09078826486627,
+        "longitude": 120.6518124895338
+      },
+      "sourceRecordId": "107TC_DL04701130082",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701130107",
+      "coordinates": {
+        "latitude": 24.08934025010661,
+        "longitude": 120.6538950271766
+      },
+      "sourceRecordId": "107TC_DL04701130107",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701410128",
+      "coordinates": {
+        "latitude": 24.0899270357255,
+        "longitude": 120.6530121360137
+      },
+      "sourceRecordId": "107TC_DL04701410128",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701410264",
+      "coordinates": {
+        "latitude": 24.08476269336856,
+        "longitude": 120.6594602592162
+      },
+      "sourceRecordId": "107TC_DL04701410264",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DL04701410477",
+      "coordinates": {
+        "latitude": 24.0894746229425,
+        "longitude": 120.6826926559876
+      },
+      "sourceRecordId": "107TC_DL04701410477",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DY0083470040",
+      "coordinates": {
+        "latitude": 24.21205893276399,
+        "longitude": 120.6652123370828
+      },
+      "sourceRecordId": "107TC_DY0083470040",
+      "speciesDisplayValue": "芒果"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DY0083480017",
+      "coordinates": {
+        "latitude": 24.23432431212193,
+        "longitude": 120.6226600688586
+      },
+      "sourceRecordId": "107TC_DY0083480017",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_DY0084900070",
+      "coordinates": {
+        "latitude": 24.2256394937459,
+        "longitude": 120.6500478297569
+      },
+      "sourceRecordId": "107TC_DY0084900070",
+      "speciesDisplayValue": "臺灣櫸"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081460020",
+      "coordinates": {
+        "latitude": 24.1261977449459,
+        "longitude": 120.6932602040321
+      },
+      "sourceRecordId": "107TC_ED0081460020",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081480137",
+      "coordinates": {
+        "latitude": 24.12582541446343,
+        "longitude": 120.689095513877
+      },
+      "sourceRecordId": "107TC_ED0081480137",
+      "speciesDisplayValue": "洋紅風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081480215",
+      "coordinates": {
+        "latitude": 24.12526331182651,
+        "longitude": 120.6892379491536
+      },
+      "sourceRecordId": "107TC_ED0081480215",
+      "speciesDisplayValue": "大果鐵刀木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081520134",
+      "coordinates": {
+        "latitude": 24.13485577159547,
+        "longitude": 120.7034214301404
+      },
+      "sourceRecordId": "107TC_ED0081520134",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081530036",
+      "coordinates": {
+        "latitude": 24.13867814533784,
+        "longitude": 120.7074948386895
+      },
+      "sourceRecordId": "107TC_ED0081530036",
+      "speciesDisplayValue": "龍柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081540044",
+      "coordinates": {
+        "latitude": 24.14423203637985,
+        "longitude": 120.7025434472595
+      },
+      "sourceRecordId": "107TC_ED0081540044",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081560021",
+      "coordinates": {
+        "latitude": 24.14097518344727,
+        "longitude": 120.702126038923
+      },
+      "sourceRecordId": "107TC_ED0081560021",
+      "speciesDisplayValue": "竹柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081570074",
+      "coordinates": {
+        "latitude": 24.13789688260921,
+        "longitude": 120.7037999587766
+      },
+      "sourceRecordId": "107TC_ED0081570074",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081570226",
+      "coordinates": {
+        "latitude": 24.1375812881032,
+        "longitude": 120.7024943874712
+      },
+      "sourceRecordId": "107TC_ED0081570226",
+      "speciesDisplayValue": "孔雀椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081570238",
+      "coordinates": {
+        "latitude": 24.13774155929735,
+        "longitude": 120.7028470247128
+      },
+      "sourceRecordId": "107TC_ED0081570238",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081570297",
+      "coordinates": {
+        "latitude": 24.13793534722815,
+        "longitude": 120.7029910603077
+      },
+      "sourceRecordId": "107TC_ED0081570297",
+      "speciesDisplayValue": "無患子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081570391",
+      "coordinates": {
+        "latitude": 24.13654011526244,
+        "longitude": 120.7026379596351
+      },
+      "sourceRecordId": "107TC_ED0081570391",
+      "speciesDisplayValue": "昆士蘭瓶幹樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081580296",
+      "coordinates": {
+        "latitude": 24.13722317748175,
+        "longitude": 120.7090550373009
+      },
+      "sourceRecordId": "107TC_ED0081580296",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081580300",
+      "coordinates": {
+        "latitude": 24.1372548282952,
+        "longitude": 120.7088150466324
+      },
+      "sourceRecordId": "107TC_ED0081580300",
+      "speciesDisplayValue": "陰香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081580491",
+      "coordinates": {
+        "latitude": 24.13781244904498,
+        "longitude": 120.7096900815296
+      },
+      "sourceRecordId": "107TC_ED0081580491",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081630025",
+      "coordinates": {
+        "latitude": 24.13637485737888,
+        "longitude": 120.6941977892648
+      },
+      "sourceRecordId": "107TC_ED0081630025",
+      "speciesDisplayValue": "雞蛋花"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081640320",
+      "coordinates": {
+        "latitude": 24.12496760370168,
+        "longitude": 120.6874162737038
+      },
+      "sourceRecordId": "107TC_ED0081640320",
+      "speciesDisplayValue": "印度橡膠樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081640424",
+      "coordinates": {
+        "latitude": 24.12554158913659,
+        "longitude": 120.6883349570606
+      },
+      "sourceRecordId": "107TC_ED0081640424",
+      "speciesDisplayValue": "福木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED0081650013",
+      "coordinates": {
+        "latitude": 24.13297954482498,
+        "longitude": 120.7026124240081
+      },
+      "sourceRecordId": "107TC_ED0081650013",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01214310049",
+      "coordinates": {
+        "latitude": 24.14354052330389,
+        "longitude": 120.7113469343218
+      },
+      "sourceRecordId": "107TC_ED01214310049",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400610288",
+      "coordinates": {
+        "latitude": 24.13789398321508,
+        "longitude": 120.6967894679289
+      },
+      "sourceRecordId": "107TC_ED01400610288",
+      "speciesDisplayValue": "馬拉巴栗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611107",
+      "coordinates": {
+        "latitude": 24.13284545355781,
+        "longitude": 120.6968195963649
+      },
+      "sourceRecordId": "107TC_ED01400611107",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611340",
+      "coordinates": {
+        "latitude": 24.1322039863176,
+        "longitude": 120.6970308650165
+      },
+      "sourceRecordId": "107TC_ED01400611340",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611406",
+      "coordinates": {
+        "latitude": 24.13064428688204,
+        "longitude": 120.6970179313695
+      },
+      "sourceRecordId": "107TC_ED01400611406",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611470",
+      "coordinates": {
+        "latitude": 24.13096232013091,
+        "longitude": 120.6970916927177
+      },
+      "sourceRecordId": "107TC_ED01400611470",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611513",
+      "coordinates": {
+        "latitude": 24.12925547297544,
+        "longitude": 120.6964167400866
+      },
+      "sourceRecordId": "107TC_ED01400611513",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611674",
+      "coordinates": {
+        "latitude": 24.1294086194169,
+        "longitude": 120.696825707361
+      },
+      "sourceRecordId": "107TC_ED01400611674",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611696",
+      "coordinates": {
+        "latitude": 24.12905928897802,
+        "longitude": 120.6965603611255
+      },
+      "sourceRecordId": "107TC_ED01400611696",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611731",
+      "coordinates": {
+        "latitude": 24.12888233171423,
+        "longitude": 120.6961742149824
+      },
+      "sourceRecordId": "107TC_ED01400611731",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611807",
+      "coordinates": {
+        "latitude": 24.12802784601615,
+        "longitude": 120.6951713086308
+      },
+      "sourceRecordId": "107TC_ED01400611807",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400611918",
+      "coordinates": {
+        "latitude": 24.127222761403,
+        "longitude": 120.6940777846553
+      },
+      "sourceRecordId": "107TC_ED01400611918",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400612026",
+      "coordinates": {
+        "latitude": 24.12494016435,
+        "longitude": 120.6908771912801
+      },
+      "sourceRecordId": "107TC_ED01400612026",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400612088",
+      "coordinates": {
+        "latitude": 24.12500415623329,
+        "longitude": 120.6913911383332
+      },
+      "sourceRecordId": "107TC_ED01400612088",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01400612096",
+      "coordinates": {
+        "latitude": 24.12493130495178,
+        "longitude": 120.6913362592417
+      },
+      "sourceRecordId": "107TC_ED01400612096",
+      "speciesDisplayValue": "竹柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01811310081",
+      "coordinates": {
+        "latitude": 24.13992012805366,
+        "longitude": 120.7013977230685
+      },
+      "sourceRecordId": "107TC_ED01811310081",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED01811310103",
+      "coordinates": {
+        "latitude": 24.13727007449101,
+        "longitude": 120.7011953535865
+      },
+      "sourceRecordId": "107TC_ED01811310103",
+      "speciesDisplayValue": "桑樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED02000210022",
+      "coordinates": {
+        "latitude": 24.1464729063871,
+        "longitude": 120.7063011660043
+      },
+      "sourceRecordId": "107TC_ED02000210022",
+      "speciesDisplayValue": "波羅蜜"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ED02203410015",
+      "coordinates": {
+        "latitude": 24.14283488453302,
+        "longitude": 120.6883289250258
+      },
+      "sourceRecordId": "107TC_ED02203410015",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040006",
+      "coordinates": {
+        "latitude": 24.25716652555058,
+        "longitude": 120.7331735780986
+      },
+      "sourceRecordId": "107TC_FY0083040006",
+      "speciesDisplayValue": "砲彈樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040265",
+      "coordinates": {
+        "latitude": 24.25701508147214,
+        "longitude": 120.7318914128155
+      },
+      "sourceRecordId": "107TC_FY0083040265",
+      "speciesDisplayValue": "龍柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040330",
+      "coordinates": {
+        "latitude": 24.25693459054098,
+        "longitude": 120.7326377998921
+      },
+      "sourceRecordId": "107TC_FY0083040330",
+      "speciesDisplayValue": "銀樺"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040334",
+      "coordinates": {
+        "latitude": 24.25691590061589,
+        "longitude": 120.7325713307572
+      },
+      "sourceRecordId": "107TC_FY0083040334",
+      "speciesDisplayValue": "銀樺"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040335",
+      "coordinates": {
+        "latitude": 24.25695195745819,
+        "longitude": 120.7325423433865
+      },
+      "sourceRecordId": "107TC_FY0083040335",
+      "speciesDisplayValue": "銀樺"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040345",
+      "coordinates": {
+        "latitude": 24.25690642741361,
+        "longitude": 120.732282987469
+      },
+      "sourceRecordId": "107TC_FY0083040345",
+      "speciesDisplayValue": "銀樺"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040377",
+      "coordinates": {
+        "latitude": 24.25676405447235,
+        "longitude": 120.7317036675478
+      },
+      "sourceRecordId": "107TC_FY0083040377",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040563",
+      "coordinates": {
+        "latitude": 24.2566105045713,
+        "longitude": 120.7296946394561
+      },
+      "sourceRecordId": "107TC_FY0083040563",
+      "speciesDisplayValue": "棍棒椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083040770",
+      "coordinates": {
+        "latitude": 24.25738799662575,
+        "longitude": 120.7316506481046
+      },
+      "sourceRecordId": "107TC_FY0083040770",
+      "speciesDisplayValue": "竹柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060019",
+      "coordinates": {
+        "latitude": 24.2530319625516,
+        "longitude": 120.7084891847215
+      },
+      "sourceRecordId": "107TC_FY0083060019",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060057",
+      "coordinates": {
+        "latitude": 24.25281936112238,
+        "longitude": 120.7073886845628
+      },
+      "sourceRecordId": "107TC_FY0083060057",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060331",
+      "coordinates": {
+        "latitude": 24.25284511374948,
+        "longitude": 120.7073659130298
+      },
+      "sourceRecordId": "107TC_FY0083060331",
+      "speciesDisplayValue": "芒果"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060594",
+      "coordinates": {
+        "latitude": 24.25340277785245,
+        "longitude": 120.7059904654427
+      },
+      "sourceRecordId": "107TC_FY0083060594",
+      "speciesDisplayValue": "橄欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060619",
+      "coordinates": {
+        "latitude": 24.25369188114282,
+        "longitude": 120.7065455931912
+      },
+      "sourceRecordId": "107TC_FY0083060619",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083060668",
+      "coordinates": {
+        "latitude": 24.25365797297335,
+        "longitude": 120.7075706648816
+      },
+      "sourceRecordId": "107TC_FY0083060668",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083120009",
+      "coordinates": {
+        "latitude": 24.24696796412248,
+        "longitude": 120.7126365709934
+      },
+      "sourceRecordId": "107TC_FY0083120009",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083240031",
+      "coordinates": {
+        "latitude": 24.25777099178121,
+        "longitude": 120.722959334869
+      },
+      "sourceRecordId": "107TC_FY0083240031",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083240043",
+      "coordinates": {
+        "latitude": 24.25742640149135,
+        "longitude": 120.7225928383361
+      },
+      "sourceRecordId": "107TC_FY0083240043",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083240117",
+      "coordinates": {
+        "latitude": 24.25783007091009,
+        "longitude": 120.7231582866895
+      },
+      "sourceRecordId": "107TC_FY0083240117",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083260064",
+      "coordinates": {
+        "latitude": 24.2410450353889,
+        "longitude": 120.7198871318767
+      },
+      "sourceRecordId": "107TC_FY0083260064",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082750305",
+      "coordinates": {
+        "latitude": 24.288642365419,
+        "longitude": 120.7047675267512
+      },
+      "sourceRecordId": "107TC_HL0082750305",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082750769",
+      "coordinates": {
+        "latitude": 24.28708360268299,
+        "longitude": 120.7021597100309
+      },
+      "sourceRecordId": "107TC_HL0082750769",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082751062",
+      "coordinates": {
+        "latitude": 24.28659209768837,
+        "longitude": 120.7058951496497
+      },
+      "sourceRecordId": "107TC_HL0082751062",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082751471",
+      "coordinates": {
+        "latitude": 24.28901207902576,
+        "longitude": 120.7031436473371
+      },
+      "sourceRecordId": "107TC_HL0082751471",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082751582",
+      "coordinates": {
+        "latitude": 24.28687340540067,
+        "longitude": 120.7042456324328
+      },
+      "sourceRecordId": "107TC_HL0082751582",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082751594",
+      "coordinates": {
+        "latitude": 24.28691311475904,
+        "longitude": 120.7039622935252
+      },
+      "sourceRecordId": "107TC_HL0082751594",
+      "speciesDisplayValue": "臺灣櫸"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_HL0082751689",
+      "coordinates": {
+        "latitude": 24.28665116928449,
+        "longitude": 120.7059432740251
+      },
+      "sourceRecordId": "107TC_HL0082751689",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00203410003",
+      "coordinates": {
+        "latitude": 24.16335146021959,
+        "longitude": 120.6583883318476
+      },
+      "sourceRecordId": "107TC_ND00203410003",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00400510042",
+      "coordinates": {
+        "latitude": 24.15755955794534,
+        "longitude": 120.6769621707484
+      },
+      "sourceRecordId": "107TC_ND00400510042",
+      "speciesDisplayValue": "臺灣櫸"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00502310007",
+      "coordinates": {
+        "latitude": 24.17305331963836,
+        "longitude": 120.6692956089643
+      },
+      "sourceRecordId": "107TC_ND00502310007",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00603610097",
+      "coordinates": {
+        "latitude": 24.16214728611261,
+        "longitude": 120.6766161524884
+      },
+      "sourceRecordId": "107TC_ND00603610097",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00603610121",
+      "coordinates": {
+        "latitude": 24.1612442273404,
+        "longitude": 120.676550728981
+      },
+      "sourceRecordId": "107TC_ND00603610121",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00603610248",
+      "coordinates": {
+        "latitude": 24.15665463911205,
+        "longitude": 120.6755522528371
+      },
+      "sourceRecordId": "107TC_ND00603610248",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00603610398",
+      "coordinates": {
+        "latitude": 24.15275160092796,
+        "longitude": 120.6731205810217
+      },
+      "sourceRecordId": "107TC_ND00603610398",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00613310036",
+      "coordinates": {
+        "latitude": 24.16618350885569,
+        "longitude": 120.6775822901124
+      },
+      "sourceRecordId": "107TC_ND00613310036",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00700610012",
+      "coordinates": {
+        "latitude": 24.16440349573468,
+        "longitude": 120.6718457445354
+      },
+      "sourceRecordId": "107TC_ND00700610012",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND00700610078",
+      "coordinates": {
+        "latitude": 24.16435513810442,
+        "longitude": 120.6700555997682
+      },
+      "sourceRecordId": "107TC_ND00700610078",
+      "speciesDisplayValue": "桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND0081750031",
+      "coordinates": {
+        "latitude": 24.1708723750075,
+        "longitude": 120.6760928071328
+      },
+      "sourceRecordId": "107TC_ND0081750031",
+      "speciesDisplayValue": "雞蛋花"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND0081790042",
+      "coordinates": {
+        "latitude": 24.17228652642736,
+        "longitude": 120.6698790069805
+      },
+      "sourceRecordId": "107TC_ND0081790042",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND0081820055",
+      "coordinates": {
+        "latitude": 24.1553774000955,
+        "longitude": 120.670951898752
+      },
+      "sourceRecordId": "107TC_ND0081820055",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND0081820249",
+      "coordinates": {
+        "latitude": 24.15388581251267,
+        "longitude": 120.6714622128159
+      },
+      "sourceRecordId": "107TC_ND0081820249",
+      "speciesDisplayValue": "小葉羅漢松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND0081820274",
+      "coordinates": {
+        "latitude": 24.15473466597507,
+        "longitude": 120.6711060433982
+      },
+      "sourceRecordId": "107TC_ND0081820274",
+      "speciesDisplayValue": "鐵刀木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND01002610024",
+      "coordinates": {
+        "latitude": 24.16527153204923,
+        "longitude": 120.6750627177037
+      },
+      "sourceRecordId": "107TC_ND01002610024",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND01003610038",
+      "coordinates": {
+        "latitude": 24.16517764698153,
+        "longitude": 120.6862869818718
+      },
+      "sourceRecordId": "107TC_ND01003610038",
+      "speciesDisplayValue": "南美假櫻桃"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND05500610011",
+      "coordinates": {
+        "latitude": 24.15672186132389,
+        "longitude": 120.6891715465613
+      },
+      "sourceRecordId": "107TC_ND05500610011",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_ND05500610350",
+      "coordinates": {
+        "latitude": 24.15559468360767,
+        "longitude": 120.6938545309588
+      },
+      "sourceRecordId": "107TC_ND05500610350",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081870038",
+      "coordinates": {
+        "latitude": 24.12108432803304,
+        "longitude": 120.6295578357843
+      },
+      "sourceRecordId": "107TC_NT0081870038",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081880003",
+      "coordinates": {
+        "latitude": 24.14987227906903,
+        "longitude": 120.6142125117458
+      },
+      "sourceRecordId": "107TC_NT0081880003",
+      "speciesDisplayValue": "欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081880007",
+      "coordinates": {
+        "latitude": 24.15004518609788,
+        "longitude": 120.6142861930158
+      },
+      "sourceRecordId": "107TC_NT0081880007",
+      "speciesDisplayValue": "欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081900085",
+      "coordinates": {
+        "latitude": 24.14687901178971,
+        "longitude": 120.6117083499146
+      },
+      "sourceRecordId": "107TC_NT0081900085",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081920012",
+      "coordinates": {
+        "latitude": 24.14040072328499,
+        "longitude": 120.6114618710531
+      },
+      "sourceRecordId": "107TC_NT0081920012",
+      "speciesDisplayValue": "鐵刀木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081920023",
+      "coordinates": {
+        "latitude": 24.14045654494115,
+        "longitude": 120.610867359628
+      },
+      "sourceRecordId": "107TC_NT0081920023",
+      "speciesDisplayValue": "龍眼"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081920154",
+      "coordinates": {
+        "latitude": 24.14049860932138,
+        "longitude": 120.6117101681808
+      },
+      "sourceRecordId": "107TC_NT0081920154",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081970181",
+      "coordinates": {
+        "latitude": 24.13234391850727,
+        "longitude": 120.6481412333075
+      },
+      "sourceRecordId": "107TC_NT0081970181",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081970396",
+      "coordinates": {
+        "latitude": 24.13328445714965,
+        "longitude": 120.6468235325739
+      },
+      "sourceRecordId": "107TC_NT0081970396",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081980125",
+      "coordinates": {
+        "latitude": 24.13189066176576,
+        "longitude": 120.6540237547785
+      },
+      "sourceRecordId": "107TC_NT0081980125",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081980389",
+      "coordinates": {
+        "latitude": 24.12975952082816,
+        "longitude": 120.6535669545672
+      },
+      "sourceRecordId": "107TC_NT0081980389",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0081990025",
+      "coordinates": {
+        "latitude": 24.13584959209084,
+        "longitude": 120.6444890383342
+      },
+      "sourceRecordId": "107TC_NT0081990025",
+      "speciesDisplayValue": "臺灣海棗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0082000044",
+      "coordinates": {
+        "latitude": 24.13595568299886,
+        "longitude": 120.6502463576908
+      },
+      "sourceRecordId": "107TC_NT0082000044",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0082110016",
+      "coordinates": {
+        "latitude": 24.14939236709372,
+        "longitude": 120.6452843488735
+      },
+      "sourceRecordId": "107TC_NT0082110016",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0082140007",
+      "coordinates": {
+        "latitude": 24.14289962594668,
+        "longitude": 120.6400825468158
+      },
+      "sourceRecordId": "107TC_NT0082140007",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0082140149",
+      "coordinates": {
+        "latitude": 24.14351890200096,
+        "longitude": 120.6404129723483
+      },
+      "sourceRecordId": "107TC_NT0082140149",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0085070046",
+      "coordinates": {
+        "latitude": 24.14561627567741,
+        "longitude": 120.6318624851762
+      },
+      "sourceRecordId": "107TC_NT0085070046",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0085090022",
+      "coordinates": {
+        "latitude": 24.14071298297279,
+        "longitude": 120.6320972167143
+      },
+      "sourceRecordId": "107TC_NT0085090022",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0085100018",
+      "coordinates": {
+        "latitude": 24.13820419506348,
+        "longitude": 120.6336329671626
+      },
+      "sourceRecordId": "107TC_NT0085100018",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0085160003",
+      "coordinates": {
+        "latitude": 24.15736291059026,
+        "longitude": 120.629951359754
+      },
+      "sourceRecordId": "107TC_NT0085160003",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT0085180311",
+      "coordinates": {
+        "latitude": 24.15249314286418,
+        "longitude": 120.6248504450896
+      },
+      "sourceRecordId": "107TC_NT0085180311",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_NT01205210133",
+      "coordinates": {
+        "latitude": 24.11829089857057,
+        "longitude": 120.6394514633847
+      },
+      "sourceRecordId": "107TC_NT01205210133",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010247",
+      "coordinates": {
+        "latitude": 24.27151121139607,
+        "longitude": 120.5809102920968
+      },
+      "sourceRecordId": "107TC_QS0080010247",
+      "speciesDisplayValue": "垂榕"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010374",
+      "coordinates": {
+        "latitude": 24.27311822876342,
+        "longitude": 120.5842090373453
+      },
+      "sourceRecordId": "107TC_QS0080010374",
+      "speciesDisplayValue": "木棉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010713",
+      "coordinates": {
+        "latitude": 24.27396265833763,
+        "longitude": 120.5859564118031
+      },
+      "sourceRecordId": "107TC_QS0080010713",
+      "speciesDisplayValue": "構樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010754",
+      "coordinates": {
+        "latitude": 24.27451058111284,
+        "longitude": 120.5857612400369
+      },
+      "sourceRecordId": "107TC_QS0080010754",
+      "speciesDisplayValue": "苦楝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010831",
+      "coordinates": {
+        "latitude": 24.27120049505325,
+        "longitude": 120.5813042804833
+      },
+      "sourceRecordId": "107TC_QS0080010831",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080010924",
+      "coordinates": {
+        "latitude": 24.26838882011163,
+        "longitude": 120.583192376051
+      },
+      "sourceRecordId": "107TC_QS0080010924",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_QS0080011070",
+      "coordinates": {
+        "latitude": 24.26933592103584,
+        "longitude": 120.5832525437491
+      },
+      "sourceRecordId": "107TC_QS0080011070",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD00121210030",
+      "coordinates": {
+        "latitude": 24.13094303321178,
+        "longitude": 120.6596966984645
+      },
+      "sourceRecordId": "107TC_SD00121210030",
+      "speciesDisplayValue": "臺灣櫸"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082250045",
+      "coordinates": {
+        "latitude": 24.12387977188745,
+        "longitude": 120.661862538993
+      },
+      "sourceRecordId": "107TC_SD0082250045",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082260086",
+      "coordinates": {
+        "latitude": 24.12844764275687,
+        "longitude": 120.6644041734289
+      },
+      "sourceRecordId": "107TC_SD0082260086",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082320025",
+      "coordinates": {
+        "latitude": 24.11899935130001,
+        "longitude": 120.6574468531551
+      },
+      "sourceRecordId": "107TC_SD0082320025",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082350016",
+      "coordinates": {
+        "latitude": 24.13304689974067,
+        "longitude": 120.6574956315113
+      },
+      "sourceRecordId": "107TC_SD0082350016",
+      "speciesDisplayValue": "阿勃勒"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082350319",
+      "coordinates": {
+        "latitude": 24.1320658151609,
+        "longitude": 120.6608473020263
+      },
+      "sourceRecordId": "107TC_SD0082350319",
+      "speciesDisplayValue": "木棉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082350327",
+      "coordinates": {
+        "latitude": 24.1321727209226,
+        "longitude": 120.6606069213968
+      },
+      "sourceRecordId": "107TC_SD0082350327",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082390110",
+      "coordinates": {
+        "latitude": 24.11819199297717,
+        "longitude": 120.6534470590867
+      },
+      "sourceRecordId": "107TC_SD0082390110",
+      "speciesDisplayValue": "毛柿"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400008",
+      "coordinates": {
+        "latitude": 24.12038936935311,
+        "longitude": 120.6698634240169
+      },
+      "sourceRecordId": "107TC_SD0082400008",
+      "speciesDisplayValue": "瓊崖海棠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400226",
+      "coordinates": {
+        "latitude": 24.12065762022957,
+        "longitude": 120.6672658259561
+      },
+      "sourceRecordId": "107TC_SD0082400226",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400328",
+      "coordinates": {
+        "latitude": 24.12022065779078,
+        "longitude": 120.6669606547009
+      },
+      "sourceRecordId": "107TC_SD0082400328",
+      "speciesDisplayValue": "臺灣赤楠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400433",
+      "coordinates": {
+        "latitude": 24.1194921614404,
+        "longitude": 120.6694839496293
+      },
+      "sourceRecordId": "107TC_SD0082400433",
+      "speciesDisplayValue": "藍花楹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400562",
+      "coordinates": {
+        "latitude": 24.12057988090526,
+        "longitude": 120.6692463999691
+      },
+      "sourceRecordId": "107TC_SD0082400562",
+      "speciesDisplayValue": "火焰木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400782",
+      "coordinates": {
+        "latitude": 24.12030337830652,
+        "longitude": 120.6680612744923
+      },
+      "sourceRecordId": "107TC_SD0082400782",
+      "speciesDisplayValue": "大葉桃花心木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0082400981",
+      "coordinates": {
+        "latitude": 24.11933355960281,
+        "longitude": 120.6697880322977
+      },
+      "sourceRecordId": "107TC_SD0082400981",
+      "speciesDisplayValue": "肯氏南洋杉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0085480036",
+      "coordinates": {
+        "latitude": 24.14512243056831,
+        "longitude": 120.651060752989
+      },
+      "sourceRecordId": "107TC_SD0085480036",
+      "speciesDisplayValue": "羅漢松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD0085480051",
+      "coordinates": {
+        "latitude": 24.14510261388761,
+        "longitude": 120.6505290797599
+      },
+      "sourceRecordId": "107TC_SD0085480051",
+      "speciesDisplayValue": "馬拉巴栗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400110041",
+      "coordinates": {
+        "latitude": 24.12415347466321,
+        "longitude": 120.6803449753762
+      },
+      "sourceRecordId": "107TC_SD02400110041",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400510402",
+      "coordinates": {
+        "latitude": 24.12408442023283,
+        "longitude": 120.6723602443121
+      },
+      "sourceRecordId": "107TC_SD02400510402",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400610192",
+      "coordinates": {
+        "latitude": 24.12227088446198,
+        "longitude": 120.6720516578594
+      },
+      "sourceRecordId": "107TC_SD02400610192",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400610225",
+      "coordinates": {
+        "latitude": 24.1227653194366,
+        "longitude": 120.6721767509129
+      },
+      "sourceRecordId": "107TC_SD02400610225",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400610254",
+      "coordinates": {
+        "latitude": 24.12319629132816,
+        "longitude": 120.6721186833545
+      },
+      "sourceRecordId": "107TC_SD02400610254",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400620041",
+      "coordinates": {
+        "latitude": 24.12371415705344,
+        "longitude": 120.6753639436892
+      },
+      "sourceRecordId": "107TC_SD02400620041",
+      "speciesDisplayValue": "木麻黃"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02400620049",
+      "coordinates": {
+        "latitude": 24.12385068034237,
+        "longitude": 120.6754742981205
+      },
+      "sourceRecordId": "107TC_SD02400620049",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02640610045",
+      "coordinates": {
+        "latitude": 24.11617600367902,
+        "longitude": 120.6575909131977
+      },
+      "sourceRecordId": "107TC_SD02640610045",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02640610141",
+      "coordinates": {
+        "latitude": 24.11825870815117,
+        "longitude": 120.6603489269666
+      },
+      "sourceRecordId": "107TC_SD02640610141",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD02700610057",
+      "coordinates": {
+        "latitude": 24.11758276413895,
+        "longitude": 120.6685506761317
+      },
+      "sourceRecordId": "107TC_SD02700610057",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SD04431510077",
+      "coordinates": {
+        "latitude": 24.1230697999132,
+        "longitude": 120.6548920288988
+      },
+      "sourceRecordId": "107TC_SD04431510077",
+      "speciesDisplayValue": "艷紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SG0083360072",
+      "coordinates": {
+        "latitude": 24.27028548231806,
+        "longitude": 120.6555828966505
+      },
+      "sourceRecordId": "107TC_SG0083360072",
+      "speciesDisplayValue": "木棉"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SG0083360086",
+      "coordinates": {
+        "latitude": 24.27016069525464,
+        "longitude": 120.6561794825647
+      },
+      "sourceRecordId": "107TC_SG0083360086",
+      "speciesDisplayValue": "龍眼"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SG0084930033",
+      "coordinates": {
+        "latitude": 24.27300558185893,
+        "longitude": 120.6569391480955
+      },
+      "sourceRecordId": "107TC_SG0084930033",
+      "speciesDisplayValue": "蚊母樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SG0084940146",
+      "coordinates": {
+        "latitude": 24.25917680834382,
+        "longitude": 120.6486920848723
+      },
+      "sourceRecordId": "107TC_SG0084940146",
+      "speciesDisplayValue": "落羽松"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SG0084940308",
+      "coordinates": {
+        "latitude": 24.2604690138712,
+        "longitude": 120.6498853631618
+      },
+      "sourceRecordId": "107TC_SG0084940308",
+      "speciesDisplayValue": "荔枝"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SL0082950176",
+      "coordinates": {
+        "latitude": 24.22884669752326,
+        "longitude": 120.5697967550179
+      },
+      "sourceRecordId": "107TC_SL0082950176",
+      "speciesDisplayValue": "福木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SL0082950317",
+      "coordinates": {
+        "latitude": 24.22949912895822,
+        "longitude": 120.569916417962
+      },
+      "sourceRecordId": "107TC_SL0082950317",
+      "speciesDisplayValue": "華盛頓椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SL0085030152",
+      "coordinates": {
+        "latitude": 24.24403217075618,
+        "longitude": 120.611411602668
+      },
+      "sourceRecordId": "107TC_SL0085030152",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_SL0085030161",
+      "coordinates": {
+        "latitude": 24.24413588937327,
+        "longitude": 120.6110973319081
+      },
+      "sourceRecordId": "107TC_SL0085030161",
+      "speciesDisplayValue": "烏心石"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0083490175",
+      "coordinates": {
+        "latitude": 24.20998957621868,
+        "longitude": 120.7121790359703
+      },
+      "sourceRecordId": "107TC_TD0083490175",
+      "speciesDisplayValue": "芒果"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0083490250",
+      "coordinates": {
+        "latitude": 24.20964300671584,
+        "longitude": 120.7121505567722
+      },
+      "sourceRecordId": "107TC_TD0083490250",
+      "speciesDisplayValue": "羅比親王海棗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0083490385",
+      "coordinates": {
+        "latitude": 24.20930071354841,
+        "longitude": 120.7122014579499
+      },
+      "sourceRecordId": "107TC_TD0083490385",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0083500084",
+      "coordinates": {
+        "latitude": 24.20483718083938,
+        "longitude": 120.7078695879969
+      },
+      "sourceRecordId": "107TC_TD0083500084",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0083510030",
+      "coordinates": {
+        "latitude": 24.23360083950259,
+        "longitude": 120.7107731559653
+      },
+      "sourceRecordId": "107TC_TD0083510030",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TD0085270035",
+      "coordinates": {
+        "latitude": 24.2266697599419,
+        "longitude": 120.7049151155289
+      },
+      "sourceRecordId": "107TC_TD0085270035",
+      "speciesDisplayValue": "水柳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084440038",
+      "coordinates": {
+        "latitude": 24.1530472916865,
+        "longitude": 120.714026849041
+      },
+      "sourceRecordId": "107TC_TP0084440038",
+      "speciesDisplayValue": "白玉蘭"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084460024",
+      "coordinates": {
+        "latitude": 24.14999607810169,
+        "longitude": 120.7198902411858
+      },
+      "sourceRecordId": "107TC_TP0084460024",
+      "speciesDisplayValue": "酪梨"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084470226",
+      "coordinates": {
+        "latitude": 24.15748463488561,
+        "longitude": 120.7326677173933
+      },
+      "sourceRecordId": "107TC_TP0084470226",
+      "speciesDisplayValue": "陰香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084470628",
+      "coordinates": {
+        "latitude": 24.15759646019644,
+        "longitude": 120.7317657050075
+      },
+      "sourceRecordId": "107TC_TP0084470628",
+      "speciesDisplayValue": "艷紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084470640",
+      "coordinates": {
+        "latitude": 24.15732279542007,
+        "longitude": 120.7319895443522
+      },
+      "sourceRecordId": "107TC_TP0084470640",
+      "speciesDisplayValue": "野牡丹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084520005",
+      "coordinates": {
+        "latitude": 24.12588690942653,
+        "longitude": 120.724646871251
+      },
+      "sourceRecordId": "107TC_TP0084520005",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084520082",
+      "coordinates": {
+        "latitude": 24.12590257112817,
+        "longitude": 120.7243341762587
+      },
+      "sourceRecordId": "107TC_TP0084520082",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084600004",
+      "coordinates": {
+        "latitude": 24.11969500970329,
+        "longitude": 120.7258743201553
+      },
+      "sourceRecordId": "107TC_TP0084600004",
+      "speciesDisplayValue": "雨豆樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084690022",
+      "coordinates": {
+        "latitude": 24.15981331850671,
+        "longitude": 120.7093286344707
+      },
+      "sourceRecordId": "107TC_TP0084690022",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084710046",
+      "coordinates": {
+        "latitude": 24.14821131353687,
+        "longitude": 120.7221476976474
+      },
+      "sourceRecordId": "107TC_TP0084710046",
+      "speciesDisplayValue": "山欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084710092",
+      "coordinates": {
+        "latitude": 24.14873371100074,
+        "longitude": 120.7226968238436
+      },
+      "sourceRecordId": "107TC_TP0084710092",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084740278",
+      "coordinates": {
+        "latitude": 24.14428879581195,
+        "longitude": 120.7237478193207
+      },
+      "sourceRecordId": "107TC_TP0084740278",
+      "speciesDisplayValue": "雞蛋花"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084750101",
+      "coordinates": {
+        "latitude": 24.13922893986847,
+        "longitude": 120.7199843322795
+      },
+      "sourceRecordId": "107TC_TP0084750101",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0084800023",
+      "coordinates": {
+        "latitude": 24.14713048258814,
+        "longitude": 120.7239980534002
+      },
+      "sourceRecordId": "107TC_TP0084800023",
+      "speciesDisplayValue": "無患子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0085000001",
+      "coordinates": {
+        "latitude": 24.12550355175451,
+        "longitude": 120.7252395467862
+      },
+      "sourceRecordId": "107TC_TP0085000001",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP0085010034",
+      "coordinates": {
+        "latitude": 24.12462010033656,
+        "longitude": 120.7250535211352
+      },
+      "sourceRecordId": "107TC_TP0085010034",
+      "speciesDisplayValue": "洋紅風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP01213310070",
+      "coordinates": {
+        "latitude": 24.1546671664991,
+        "longitude": 120.7167408119941
+      },
+      "sourceRecordId": "107TC_TP01213310070",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP03101210069",
+      "coordinates": {
+        "latitude": 24.15396979411876,
+        "longitude": 120.7256052772489
+      },
+      "sourceRecordId": "107TC_TP03101210069",
+      "speciesDisplayValue": "光蠟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_TP05110310167",
+      "coordinates": {
+        "latitude": 24.1470364334722,
+        "longitude": 120.7237836616519
+      },
+      "sourceRecordId": "107TC_TP05110310167",
+      "speciesDisplayValue": "艷紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD00502310172",
+      "coordinates": {
+        "latitude": 24.15966818042608,
+        "longitude": 120.6629467502936
+      },
+      "sourceRecordId": "107TC_WD00502310172",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD00602610012",
+      "coordinates": {
+        "latitude": 24.15191979715268,
+        "longitude": 120.6730332045406
+      },
+      "sourceRecordId": "107TC_WD00602610012",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD0082430053",
+      "coordinates": {
+        "latitude": 24.15410268423721,
+        "longitude": 120.6597423601136
+      },
+      "sourceRecordId": "107TC_WD0082430053",
+      "speciesDisplayValue": "雞蛋花"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD0082540103",
+      "coordinates": {
+        "latitude": 24.13509772686946,
+        "longitude": 120.666915297906
+      },
+      "sourceRecordId": "107TC_WD0082540103",
+      "speciesDisplayValue": "欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD0082630185",
+      "coordinates": {
+        "latitude": 24.15029390525425,
+        "longitude": 120.6641662615472
+      },
+      "sourceRecordId": "107TC_WD0082630185",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD0082630253",
+      "coordinates": {
+        "latitude": 24.14907931880042,
+        "longitude": 120.6634564601885
+      },
+      "sourceRecordId": "107TC_WD0082630253",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD0085310049",
+      "coordinates": {
+        "latitude": 24.13539268273826,
+        "longitude": 120.6706551253903
+      },
+      "sourceRecordId": "107TC_WD0085310049",
+      "speciesDisplayValue": "茄苳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD01101310018",
+      "coordinates": {
+        "latitude": 24.14309426756808,
+        "longitude": 120.6615914234884
+      },
+      "sourceRecordId": "107TC_WD01101310018",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD03720610056",
+      "coordinates": {
+        "latitude": 24.13871007493728,
+        "longitude": 120.6640591105983
+      },
+      "sourceRecordId": "107TC_WD03720610056",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD03720620039",
+      "coordinates": {
+        "latitude": 24.132853921723,
+        "longitude": 120.6629273579725
+      },
+      "sourceRecordId": "107TC_WD03720620039",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD03720620162",
+      "coordinates": {
+        "latitude": 24.13416074311781,
+        "longitude": 120.6627839827229
+      },
+      "sourceRecordId": "107TC_WD03720620162",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD03720620193",
+      "coordinates": {
+        "latitude": 24.13638365367351,
+        "longitude": 120.6629565638502
+      },
+      "sourceRecordId": "107TC_WD03720620193",
+      "speciesDisplayValue": "大王椰子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WD03720620485",
+      "coordinates": {
+        "latitude": 24.13949098567741,
+        "longitude": 120.6630111116158
+      },
+      "sourceRecordId": "107TC_WD03720620485",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0083920112",
+      "coordinates": {
+        "latitude": 24.10056125109924,
+        "longitude": 120.6274072127465
+      },
+      "sourceRecordId": "107TC_WR0083920112",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0083960018",
+      "coordinates": {
+        "latitude": 24.11035415114154,
+        "longitude": 120.6284382048875
+      },
+      "sourceRecordId": "107TC_WR0083960018",
+      "speciesDisplayValue": "垂榕"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084020007",
+      "coordinates": {
+        "latitude": 24.11069871202568,
+        "longitude": 120.639735848749
+      },
+      "sourceRecordId": "107TC_WR0084020007",
+      "speciesDisplayValue": "竹柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084100087",
+      "coordinates": {
+        "latitude": 24.10268825645603,
+        "longitude": 120.6194771302659
+      },
+      "sourceRecordId": "107TC_WR0084100087",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084100188",
+      "coordinates": {
+        "latitude": 24.10241475942301,
+        "longitude": 120.6204544663354
+      },
+      "sourceRecordId": "107TC_WR0084100188",
+      "speciesDisplayValue": "側柏"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084110025",
+      "coordinates": {
+        "latitude": 24.10426130426228,
+        "longitude": 120.6098629796931
+      },
+      "sourceRecordId": "107TC_WR0084110025",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084180036",
+      "coordinates": {
+        "latitude": 24.10743166587049,
+        "longitude": 120.6030114521939
+      },
+      "sourceRecordId": "107TC_WR0084180036",
+      "speciesDisplayValue": "水柳"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084180053",
+      "coordinates": {
+        "latitude": 24.10722018486403,
+        "longitude": 120.6034857594116
+      },
+      "sourceRecordId": "107TC_WR0084180053",
+      "speciesDisplayValue": "黃連木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084570026",
+      "coordinates": {
+        "latitude": 24.11628457005515,
+        "longitude": 120.7234934388613
+      },
+      "sourceRecordId": "107TC_WR0084570026",
+      "speciesDisplayValue": "黃花風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0084570179",
+      "coordinates": {
+        "latitude": 24.11557483837078,
+        "longitude": 120.7238850598358
+      },
+      "sourceRecordId": "107TC_WR0084570179",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0085330140",
+      "coordinates": {
+        "latitude": 24.10927833487299,
+        "longitude": 120.5914277142167
+      },
+      "sourceRecordId": "107TC_WR0085330140",
+      "speciesDisplayValue": "臺灣海棗"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR0085330143",
+      "coordinates": {
+        "latitude": 24.10936586346449,
+        "longitude": 120.5913697858168
+      },
+      "sourceRecordId": "107TC_WR0085330143",
+      "speciesDisplayValue": "羅望子"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR01207110073",
+      "coordinates": {
+        "latitude": 24.09307467636275,
+        "longitude": 120.6489604938234
+      },
+      "sourceRecordId": "107TC_WR01207110073",
+      "speciesDisplayValue": "珊瑚刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR01207110094",
+      "coordinates": {
+        "latitude": 24.09250657574136,
+        "longitude": 120.6487046668021
+      },
+      "sourceRecordId": "107TC_WR01207110094",
+      "speciesDisplayValue": "珊瑚刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR01207310087",
+      "coordinates": {
+        "latitude": 24.09439129851266,
+        "longitude": 120.6490972262856
+      },
+      "sourceRecordId": "107TC_WR01207310087",
+      "speciesDisplayValue": "瓊崖海棠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR04400410163",
+      "coordinates": {
+        "latitude": 24.10856949706342,
+        "longitude": 120.6273778097729
+      },
+      "sourceRecordId": "107TC_WR04400410163",
+      "speciesDisplayValue": "艷紫荊"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_WR04701130017",
+      "coordinates": {
+        "latitude": 24.09262226426842,
+        "longitude": 120.6460054337495
+      },
+      "sourceRecordId": "107TC_WR04701130017",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080030007",
+      "coordinates": {
+        "latitude": 24.17278343333697,
+        "longitude": 120.6449140159912
+      },
+      "sourceRecordId": "107TC_XT0080030007",
+      "speciesDisplayValue": "大葉山欖"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080050019",
+      "coordinates": {
+        "latitude": 24.17871163170501,
+        "longitude": 120.6422469266312
+      },
+      "sourceRecordId": "107TC_XT0080050019",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080080102",
+      "coordinates": {
+        "latitude": 24.19850768939048,
+        "longitude": 120.6573321154463
+      },
+      "sourceRecordId": "107TC_XT0080080102",
+      "speciesDisplayValue": "鳳凰木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080110041",
+      "coordinates": {
+        "latitude": 24.17531289286945,
+        "longitude": 120.666508387136
+      },
+      "sourceRecordId": "107TC_XT0080110041",
+      "speciesDisplayValue": "掌葉蘋婆"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080190013",
+      "coordinates": {
+        "latitude": 24.16101249599837,
+        "longitude": 120.6548372602694
+      },
+      "sourceRecordId": "107TC_XT0080190013",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080200126",
+      "coordinates": {
+        "latitude": 24.17711974305571,
+        "longitude": 120.6407317555768
+      },
+      "sourceRecordId": "107TC_XT0080200126",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080210087",
+      "coordinates": {
+        "latitude": 24.19374883103432,
+        "longitude": 120.6114106030374
+      },
+      "sourceRecordId": "107TC_XT0080210087",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080210288",
+      "coordinates": {
+        "latitude": 24.19255744660196,
+        "longitude": 120.6145083936976
+      },
+      "sourceRecordId": "107TC_XT0080210288",
+      "speciesDisplayValue": "構樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080250023",
+      "coordinates": {
+        "latitude": 24.16668148198771,
+        "longitude": 120.6626595156738
+      },
+      "sourceRecordId": "107TC_XT0080250023",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080250144",
+      "coordinates": {
+        "latitude": 24.16674988095943,
+        "longitude": 120.6633225883147
+      },
+      "sourceRecordId": "107TC_XT0080250144",
+      "speciesDisplayValue": "蒲葵"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080380005",
+      "coordinates": {
+        "latitude": 24.18240001856217,
+        "longitude": 120.6450681907819
+      },
+      "sourceRecordId": "107TC_XT0080380005",
+      "speciesDisplayValue": "血桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080430008",
+      "coordinates": {
+        "latitude": 24.17896416410981,
+        "longitude": 120.618372247229
+      },
+      "sourceRecordId": "107TC_XT0080430008",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080430203",
+      "coordinates": {
+        "latitude": 24.1771263059372,
+        "longitude": 120.6161802559999
+      },
+      "sourceRecordId": "107TC_XT0080430203",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080430338",
+      "coordinates": {
+        "latitude": 24.17890672375822,
+        "longitude": 120.6165202373751
+      },
+      "sourceRecordId": "107TC_XT0080430338",
+      "speciesDisplayValue": "榕樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080430404",
+      "coordinates": {
+        "latitude": 24.1786872382987,
+        "longitude": 120.6170220549097
+      },
+      "sourceRecordId": "107TC_XT0080430404",
+      "speciesDisplayValue": "山櫻"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080480006",
+      "coordinates": {
+        "latitude": 24.15896108315572,
+        "longitude": 120.651597061813
+      },
+      "sourceRecordId": "107TC_XT0080480006",
+      "speciesDisplayValue": "台灣欒樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080490180",
+      "coordinates": {
+        "latitude": 24.15499954895529,
+        "longitude": 120.6386144048622
+      },
+      "sourceRecordId": "107TC_XT0080490180",
+      "speciesDisplayValue": "刺桐"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080490275",
+      "coordinates": {
+        "latitude": 24.15547416721576,
+        "longitude": 120.6402015568295
+      },
+      "sourceRecordId": "107TC_XT0080490275",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080490286",
+      "coordinates": {
+        "latitude": 24.15556769299513,
+        "longitude": 120.6401481804888
+      },
+      "sourceRecordId": "107TC_XT0080490286",
+      "speciesDisplayValue": "第倫桃"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080490315",
+      "coordinates": {
+        "latitude": 24.15531103097827,
+        "longitude": 120.6394040996666
+      },
+      "sourceRecordId": "107TC_XT0080490315",
+      "speciesDisplayValue": "第倫桃"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080510059",
+      "coordinates": {
+        "latitude": 24.15739622321474,
+        "longitude": 120.64409531416
+      },
+      "sourceRecordId": "107TC_XT0080510059",
+      "speciesDisplayValue": "楓香"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080560007",
+      "coordinates": {
+        "latitude": 24.17069227792165,
+        "longitude": 120.6355031714357
+      },
+      "sourceRecordId": "107TC_XT0080560007",
+      "speciesDisplayValue": "印度紫檀"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080620091",
+      "coordinates": {
+        "latitude": 24.18377470029568,
+        "longitude": 120.6281120080017
+      },
+      "sourceRecordId": "107TC_XT0080620091",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080620176",
+      "coordinates": {
+        "latitude": 24.18267524516649,
+        "longitude": 120.6275898820207
+      },
+      "sourceRecordId": "107TC_XT0080620176",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080630187",
+      "coordinates": {
+        "latitude": 24.18030276375387,
+        "longitude": 120.6277988557592
+      },
+      "sourceRecordId": "107TC_XT0080630187",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080630204",
+      "coordinates": {
+        "latitude": 24.18085347755203,
+        "longitude": 120.627907177271
+      },
+      "sourceRecordId": "107TC_XT0080630204",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080640220",
+      "coordinates": {
+        "latitude": 24.17652625536264,
+        "longitude": 120.6264356422055
+      },
+      "sourceRecordId": "107TC_XT0080640220",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080660105",
+      "coordinates": {
+        "latitude": 24.17654336641151,
+        "longitude": 120.619254903993
+      },
+      "sourceRecordId": "107TC_XT0080660105",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080660108",
+      "coordinates": {
+        "latitude": 24.17665759244472,
+        "longitude": 120.6192718499232
+      },
+      "sourceRecordId": "107TC_XT0080660108",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080660147",
+      "coordinates": {
+        "latitude": 24.17586683667415,
+        "longitude": 120.6195784582001
+      },
+      "sourceRecordId": "107TC_XT0080660147",
+      "speciesDisplayValue": "烏?"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080690003",
+      "coordinates": {
+        "latitude": 24.17144035630143,
+        "longitude": 120.6490953376778
+      },
+      "sourceRecordId": "107TC_XT0080690003",
+      "speciesDisplayValue": "風鈴木"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0080690234",
+      "coordinates": {
+        "latitude": 24.1722400531498,
+        "longitude": 120.6492415233471
+      },
+      "sourceRecordId": "107TC_XT0080690234",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0085440100",
+      "coordinates": {
+        "latitude": 24.19532837742075,
+        "longitude": 120.6474745064968
+      },
+      "sourceRecordId": "107TC_XT0085440100",
+      "speciesDisplayValue": "藍花楹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT0085460053",
+      "coordinates": {
+        "latitude": 24.18538013668847,
+        "longitude": 120.6569914554308
+      },
+      "sourceRecordId": "107TC_XT0085460053",
+      "speciesDisplayValue": "大花紫薇"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02100210093",
+      "coordinates": {
+        "latitude": 24.17301702386091,
+        "longitude": 120.6408359922569
+      },
+      "sourceRecordId": "107TC_XT02100210093",
+      "speciesDisplayValue": "水黃皮"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02100310108",
+      "coordinates": {
+        "latitude": 24.17256374006644,
+        "longitude": 120.6402204603511
+      },
+      "sourceRecordId": "107TC_XT02100310108",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT03003310106",
+      "coordinates": {
+        "latitude": 24.17146449012413,
+        "longitude": 120.6497546612559
+      },
+      "sourceRecordId": "107TC_XT03003310106",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT03003310232",
+      "coordinates": {
+        "latitude": 24.16706326776805,
+        "longitude": 120.6450800180931
+      },
+      "sourceRecordId": "107TC_XT03003310232",
+      "speciesDisplayValue": "黑板樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT04600410061",
+      "coordinates": {
+        "latitude": 24.16664830872905,
+        "longitude": 120.6361007764407
+      },
+      "sourceRecordId": "107TC_XT04600410061",
+      "speciesDisplayValue": "洋紅風鈴木"
+    }
+  ],
+  "shard": "7a"
+}

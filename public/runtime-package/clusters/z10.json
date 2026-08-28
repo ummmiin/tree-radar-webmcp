@@ -1,0 +1,59 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "clusterVersion": "1.0.0",
+  "clusters": [
+    {
+      "clusterId": "10/854/440",
+      "recordCount": 3645,
+      "representativeCoordinates": {
+        "latitude": 24.249166609749814,
+        "longitude": 120.57382018493277
+      },
+      "tile": {
+        "x": 854,
+        "y": 440,
+        "zoom": 10
+      }
+    },
+    {
+      "clusterId": "10/854/441",
+      "recordCount": 394,
+      "representativeCoordinates": {
+        "latitude": 24.189157484510254,
+        "longitude": 120.56932777566392
+      },
+      "tile": {
+        "x": 854,
+        "y": 441,
+        "zoom": 10
+      }
+    },
+    {
+      "clusterId": "10/855/440",
+      "recordCount": 9218,
+      "representativeCoordinates": {
+        "latitude": 24.254621989688047,
+        "longitude": 120.70243735550238
+      },
+      "tile": {
+        "x": 855,
+        "y": 440,
+        "zoom": 10
+      }
+    },
+    {
+      "clusterId": "10/855/441",
+      "recordCount": 105146,
+      "representativeCoordinates": {
+        "latitude": 24.151047623415057,
+        "longitude": 120.66825104545411
+      },
+      "tile": {
+        "x": 855,
+        "y": 441,
+        "zoom": 10
+      }
+    }
+  ],
+  "zoom": 10
+}

@@ -1,0 +1,56 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "pointVersion": "1.0.0",
+  "records": [
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02800510001",
+      "coordinates": {
+        "latitude": 24.20697741578285,
+        "longitude": 120.6250372693234
+      },
+      "sourceRecordId": "107TC_XT02800510001",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02800510002",
+      "coordinates": {
+        "latitude": 24.20695898967153,
+        "longitude": 120.6252180887107
+      },
+      "sourceRecordId": "107TC_XT02800510002",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02800510003",
+      "coordinates": {
+        "latitude": 24.20695392243634,
+        "longitude": 120.6252944219372
+      },
+      "sourceRecordId": "107TC_XT02800510003",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02800510004",
+      "coordinates": {
+        "latitude": 24.20693167790765,
+        "longitude": 120.6254794195875
+      },
+      "sourceRecordId": "107TC_XT02800510004",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_XT02800510005",
+      "coordinates": {
+        "latitude": 24.20691676302007,
+        "longitude": 120.6255901772079
+      },
+      "sourceRecordId": "107TC_XT02800510005",
+      "speciesDisplayValue": "小葉欖仁"
+    }
+  ],
+  "tile": {
+    "x": 27363,
+    "y": 14111,
+    "zoom": 15
+  }
+}

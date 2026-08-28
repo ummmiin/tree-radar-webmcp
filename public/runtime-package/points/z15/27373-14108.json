@@ -1,0 +1,56 @@
+{
+  "artifactSha256": "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa",
+  "pointVersion": "1.0.0",
+  "records": [
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083200034",
+      "coordinates": {
+        "latitude": 24.24696257092644,
+        "longitude": 120.7302938500685
+      },
+      "sourceRecordId": "107TC_FY0083200034",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083200035",
+      "coordinates": {
+        "latitude": 24.24692568941841,
+        "longitude": 120.7303769787975
+      },
+      "sourceRecordId": "107TC_FY0083200035",
+      "speciesDisplayValue": "小葉欖仁"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083200036",
+      "coordinates": {
+        "latitude": 24.24690270121116,
+        "longitude": 120.730484114295
+      },
+      "sourceRecordId": "107TC_FY0083200036",
+      "speciesDisplayValue": "樟樹"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083200037",
+      "coordinates": {
+        "latitude": 24.24696392906142,
+        "longitude": 120.730520201934
+      },
+      "sourceRecordId": "107TC_FY0083200037",
+      "speciesDisplayValue": "臺灣肖楠"
+    },
+    {
+      "canonicalTreeId": "taichung:data.gov.tw:109853:107TC_FY0083200038",
+      "coordinates": {
+        "latitude": 24.24695264137844,
+        "longitude": 120.7304889594817
+      },
+      "sourceRecordId": "107TC_FY0083200038",
+      "speciesDisplayValue": "油桐"
+    }
+  ],
+  "tile": {
+    "x": 27373,
+    "y": 14108,
+    "zoom": 15
+  }
+}
