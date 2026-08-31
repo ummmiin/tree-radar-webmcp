@@ -80,6 +80,7 @@ export type RuntimeCoordinatorSearchUiState =
         result: Readonly<{
           canonicalTreeIds: readonly string[];
           normalizedQuery: string;
+          speciesDisplayValues: Readonly<Record<string, string>>;
           status: "found" | "not_found";
         }>;
         status: "ready";
@@ -552,6 +553,8 @@ export function createRuntimeCoordinator(
         canonicalTreeIds:
           response.status === "found" ? response.canonicalTreeIds : [],
         normalizedQuery: response.normalizedQuery,
+        speciesDisplayValues:
+          response.status === "found" ? response.speciesDisplayValues : {},
         status: response.status,
       },
       status: "ready",

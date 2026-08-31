@@ -63,7 +63,6 @@ function projection(points: readonly Point[]): RuntimeUiProjection {
       resultCount: 0,
       resultReferences: [],
       semantics: "species-exact-value",
-      speciesDisplayValue: null,
       status: "idle",
     },
     statistics: [],

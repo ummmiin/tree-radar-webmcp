@@ -8,6 +8,7 @@ import {
   type RuntimeUiSession,
 } from "../runtime/ui-projection/runtime-ui-projection.ts";
 import { isEmptySpeciesSearch } from "../runtime/ui-projection/runtime-ui-screen.tsx";
+import { ExternalLinkIcon } from "./external-link-icon.tsx";
 import { openTaichungChallengeRuntime } from "./taichung-runtime.ts";
 import { TaichungWebMcpAdapter } from "./taichung-webmcp-adapter.tsx";
 import type { TaichungWebMcpTree } from "./taichung-webmcp.ts";
@@ -30,16 +31,14 @@ export function taichungSourceRecordId(canonicalTreeId: string): string {
 export function taichungProductSearchRows(
   projection: RuntimeUiProjection,
 ): readonly TaichungProductSearchRow[] {
-  const speciesDisplayValue = projection.search.speciesDisplayValue;
-  if (projection.search.status !== "ready" || speciesDisplayValue === null)
-    return [];
+  if (projection.search.status !== "ready") return [];
   return projection.search.resultReferences
     .slice(0, MAX_VISIBLE_SEARCH_RESULTS)
     .map((reference) =>
       Object.freeze({
         canonicalTreeId: reference.canonicalTreeId,
         sourceRecordId: taichungSourceRecordId(reference.canonicalTreeId),
-        speciesDisplayValue,
+        speciesDisplayValue: reference.speciesDisplayValue,
       }),
     );
 }
@@ -87,11 +86,14 @@ export function TaichungRuntimeTreeDetail({
         <h3 id="source-title">官方來源</h3>
         <p>臺中市行道樹分佈圖</p>
         <a
+          aria-label="查看臺中市行道樹官方資料集（於新分頁開啟）"
+          className="external-link"
           href="https://data.gov.tw/dataset/109853"
-          rel="noreferrer"
+          rel="noopener noreferrer"
           target="_blank"
         >
           查看官方資料集
+          <ExternalLinkIcon />
         </a>
       </section>
     </article>

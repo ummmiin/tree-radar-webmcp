@@ -215,18 +215,31 @@ function focusRuntimeAgentCandidates(
 
 /** Deterministic first-party canopy geometry; no image request participates in map readiness. */
 export function createRuntimeClusterCanopyImage() {
-  const size = 64;
+  const logicalSize = 64;
+  const pixelRatio = 2;
+  const size = logicalSize * pixelRatio;
   const data = new Uint8Array(size * size * 4);
-  const setPixel = (
+  const blendPixel = (
     x: number,
     y: number,
     color: readonly [number, number, number, number],
+    coverage: number,
   ) => {
     const offset = (y * size + x) * 4;
-    data[offset] = color[0];
-    data[offset + 1] = color[1];
-    data[offset + 2] = color[2];
-    data[offset + 3] = color[3];
+    const sourceAlpha = (color[3] / 255) * coverage;
+    const destinationAlpha = (data[offset + 3] ?? 0) / 255;
+    const outputAlpha = sourceAlpha + destinationAlpha * (1 - sourceAlpha);
+    if (outputAlpha === 0) return;
+    for (let channel = 0; channel < 3; channel += 1) {
+      const output =
+        ((color[channel] ?? 0) * sourceAlpha +
+          (data[offset + channel] ?? 0) *
+            destinationAlpha *
+            (1 - sourceAlpha)) /
+        outputAlpha;
+      data[offset + channel] = Math.round(output);
+    }
+    data[offset + 3] = Math.round(outputAlpha * 255);
   };
   const within = (
     x: number,
@@ -244,15 +257,76 @@ export function createRuntimeClusterCanopyImage() {
     radiusY: number,
   ) =>
     (x - centerX) ** 2 / radiusX ** 2 + (y - centerY) ** 2 / radiusY ** 2 <= 1;
+  const coverage = (
+    contains: (x: number, y: number) => boolean,
+    x: number,
+    y: number,
+  ) => {
+    let coveredSamples = 0;
+    const samplesPerAxis = 4;
+    for (let sampleY = 0; sampleY < samplesPerAxis; sampleY += 1) {
+      for (let sampleX = 0; sampleX < samplesPerAxis; sampleX += 1) {
+        const logicalX = (x + (sampleX + 0.5) / samplesPerAxis) / pixelRatio;
+        const logicalY = (y + (sampleY + 0.5) / samplesPerAxis) / pixelRatio;
+        if (contains(logicalX, logicalY)) coveredSamples += 1;
+      }
+    }
+    return coveredSamples / samplesPerAxis ** 2;
+  };
   for (let y = 0; y < size; y += 1) {
     for (let x = 0; x < size; x += 1) {
-      if (within(x, y, 32, 31, 24)) setPixel(x, y, [245, 251, 246, 255]);
-      if (withinEllipse(x, y, 32, 28, 19, 16))
-        setPixel(x, y, [42, 111, 70, 255]);
-      if (x >= 30 && x <= 33 && y >= 38 && y <= 47)
-        setPixel(x, y, [124, 78, 51, 255]);
-      if (x >= 27 && x <= 36 && y >= 47 && y <= 49)
-        setPixel(x, y, [101, 62, 42, 255]);
+      blendPixel(
+        x,
+        y,
+        [245, 251, 246, 255],
+        coverage(
+          (sampleX, sampleY) => within(sampleX, sampleY, 32, 31, 24),
+          x,
+          y,
+        ),
+      );
+      blendPixel(
+        x,
+        y,
+        [42, 111, 70, 255],
+        coverage(
+          (sampleX, sampleY) => withinEllipse(sampleX, sampleY, 32, 28, 19, 16),
+          x,
+          y,
+        ),
+      );
+      blendPixel(
+        x,
+        y,
+        [120, 184, 140, 255],
+        coverage(
+          (sampleX, sampleY) => within(sampleX, sampleY, 40, 21, 1.65),
+          x,
+          y,
+        ),
+      );
+      blendPixel(
+        x,
+        y,
+        [124, 78, 51, 255],
+        coverage(
+          (sampleX, sampleY) =>
+            sampleX >= 29 && sampleX <= 34 && sampleY >= 38 && sampleY <= 48,
+          x,
+          y,
+        ),
+      );
+      blendPixel(
+        x,
+        y,
+        [101, 62, 42, 255],
+        coverage(
+          (sampleX, sampleY) =>
+            sampleX >= 26 && sampleX <= 37 && sampleY >= 47 && sampleY <= 50,
+          x,
+          y,
+        ),
+      );
     }
   }
   return { data, height: size, width: size };
@@ -267,7 +341,9 @@ export function installRuntimeMapStyle(
   onViewport: (request: RuntimeViewportRequest) => void,
 ): void {
   if (!map.hasImage(RUNTIME_CLUSTER_ICON_ID))
-    map.addImage(RUNTIME_CLUSTER_ICON_ID, createRuntimeClusterCanopyImage());
+    map.addImage(RUNTIME_CLUSTER_ICON_ID, createRuntimeClusterCanopyImage(), {
+      pixelRatio: 2,
+    });
   map.addSource("runtime-geometry", {
     data: { features: [], type: "FeatureCollection" },
     type: "geojson",

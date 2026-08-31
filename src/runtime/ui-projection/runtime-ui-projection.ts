@@ -68,10 +68,12 @@ export type RuntimeUiSearchViewModel = Readonly<{
   identity: RuntimeUiSessionIdentity;
   normalizedQuery: string | null;
   query: string | null;
-  resultReferences: readonly Readonly<{ canonicalTreeId: string }>[];
+  resultReferences: readonly Readonly<{
+    canonicalTreeId: string;
+    speciesDisplayValue: string;
+  }>[];
   resultCount: number | undefined;
   semantics: "species-exact-value";
-  speciesDisplayValue: string | null;
   status: RuntimeUiLifecycleCategory;
 }>;
 
@@ -226,7 +228,6 @@ function searchProjection(
       resultCount: undefined,
       resultReferences: [],
       semantics: "species-exact-value",
-      speciesDisplayValue: null,
       status: category(state.status, state.rejectionCategory),
     });
   const found = state.result.status === "found";
@@ -237,11 +238,15 @@ function searchProjection(
     resultCount: found ? state.result.canonicalTreeIds.length : 0,
     resultReferences: found
       ? state.result.canonicalTreeIds.map((canonicalTreeId) =>
-          deepFreeze({ canonicalTreeId }),
+          deepFreeze({
+            canonicalTreeId,
+            speciesDisplayValue:
+              state.result.speciesDisplayValues[canonicalTreeId] ??
+              "未提供樹種名稱",
+          }),
         )
       : [],
     semantics: "species-exact-value",
-    speciesDisplayValue: found ? state.result.normalizedQuery : null,
     status: found ? "ready" : "no_result",
   });
 }

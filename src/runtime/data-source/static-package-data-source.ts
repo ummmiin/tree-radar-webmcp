@@ -219,6 +219,7 @@ export type RuntimeSpeciesSearchResult =
       generation: number;
       normalizedQuery: string;
       semantics: "species-exact-value";
+      speciesDisplayValues: Readonly<Record<string, string>>;
       status: "found";
     }>
   | Readonly<{
@@ -1085,6 +1086,14 @@ export function createRuntimeStaticPackageDataSource(
               generation: state.identity.generation,
               normalizedQuery,
               semantics: "species-exact-value",
+              speciesDisplayValues: freeze(
+                Object.fromEntries(
+                  canonicalTreeIds.map((canonicalTreeId) => [
+                    canonicalTreeId,
+                    normalizedQuery,
+                  ]),
+                ),
+              ),
               status: "found",
             })
           : freeze({
