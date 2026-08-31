@@ -131,7 +131,8 @@ function validateManifest(
       !/^clusters\/z(?:10|12|14)\.json$/u.test(descriptor.path) &&
       !/^details\/[a-f0-9]{2}\.json$/u.test(descriptor.path) &&
       !/^points\/z15\/\d+-\d+\.json$/u.test(descriptor.path) &&
-      !/^search\/species\/[a-f0-9]{2}\.json$/u.test(descriptor.path)
+      !/^search\/species\/[a-f0-9]{2}\.json$/u.test(descriptor.path) &&
+      descriptor.path !== "search/species-names.json"
     )
       throw runtimeError({ code: "unsafe_path", phase: "manifest" });
   }

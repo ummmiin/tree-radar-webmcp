@@ -16,6 +16,7 @@ import {
   type DetailPayload,
   type OverviewPayload,
   type PointPayload,
+  type SpeciesNameIndexPayload,
   type SpeciesSearchPayload,
 } from "../static-package/contracts.ts";
 import {
@@ -218,7 +219,7 @@ export type RuntimeSpeciesSearchResult =
       canonicalTreeIds: readonly string[];
       generation: number;
       normalizedQuery: string;
-      semantics: "species-exact-value";
+      semantics: "species-exact-value" | "species-partial-value";
       speciesDisplayValues: Readonly<Record<string, string>>;
       status: "found";
     }>
@@ -226,7 +227,7 @@ export type RuntimeSpeciesSearchResult =
       attribution: RuntimeDataSourceResponseAttribution;
       generation: number;
       normalizedQuery: string;
-      semantics: "species-exact-value";
+      semantics: "species-exact-value" | "species-partial-value";
       status: "not_found";
     }>
   | Readonly<{
@@ -515,6 +516,16 @@ function isSpeciesSearch(payload: unknown): payload is SpeciesSearchPayload {
     typeof payload === "object" &&
     payload !== null &&
     "entries" in payload &&
+    "type" in payload
+  );
+}
+function isSpeciesNameIndex(
+  payload: unknown,
+): payload is SpeciesNameIndexPayload {
+  return (
+    typeof payload === "object" &&
+    payload !== null &&
+    "names" in payload &&
     "type" in payload
   );
 }
@@ -1060,11 +1071,55 @@ export function createRuntimeStaticPackageDataSource(
           "search",
           state.identity.generation,
         );
+      const loadExactSpecies = async (speciesName: string) => {
+        const shard = await shardFor(speciesName, crypto);
+        try {
+          const payload = await activeLoader.loadDescriptor({
+            capability: "species-search",
+            shard,
+          });
+          if (!isSpeciesSearch(payload))
+            throw new StaticPackageRuntimeError({
+              code: "payload_schema_invalid",
+              phase: "file",
+            });
+          const canonicalTreeIds = payload.entries[speciesName];
+          return canonicalTreeIds && canonicalTreeIds.length > 0
+            ? freeze([...canonicalTreeIds])
+            : undefined;
+        } catch (cause) {
+          if (runtimeErrorCode(cause) === "descriptor_not_found")
+            return undefined;
+          throw cause;
+        }
+      };
       try {
-        const shard = await shardFor(normalizedQuery, crypto);
-        const payload = await activeLoader.loadDescriptor({
-          capability: "species-search",
-          shard,
+        const exactTreeIds = await loadExactSpecies(normalizedQuery);
+        if (!current(state))
+          return unavailable(
+            "generation_superseded",
+            "search",
+            state.identity.generation,
+          );
+        if (exactTreeIds)
+          return freeze({
+            attribution: responseAttribution(state.attribution, "search"),
+            canonicalTreeIds: exactTreeIds,
+            generation: state.identity.generation,
+            normalizedQuery,
+            semantics: "species-exact-value",
+            speciesDisplayValues: freeze(
+              Object.fromEntries(
+                exactTreeIds.map((canonicalTreeId) => [
+                  canonicalTreeId,
+                  normalizedQuery,
+                ]),
+              ),
+            ),
+            status: "found",
+          });
+        const indexPayload = await activeLoader.loadDescriptor({
+          capability: "species-name-index",
         });
         if (!current(state))
           return unavailable(
@@ -1072,35 +1127,59 @@ export function createRuntimeStaticPackageDataSource(
             "search",
             state.identity.generation,
           );
-        if (!isSpeciesSearch(payload))
+        if (!isSpeciesNameIndex(indexPayload))
           return unavailable(
             "payload_invalid",
             "search",
             state.identity.generation,
           );
-        const canonicalTreeIds = payload.entries[normalizedQuery];
-        return canonicalTreeIds && canonicalTreeIds.length > 0
+        const matchedNames = indexPayload.names.filter((name) =>
+          name.includes(normalizedQuery),
+        );
+        if (matchedNames.length === 0)
+          return freeze({
+            attribution: responseAttribution(state.attribution, "search"),
+            generation: state.identity.generation,
+            normalizedQuery,
+            semantics: "species-partial-value",
+            status: "not_found",
+          });
+        const matchedEntries = await Promise.all(
+          matchedNames.map(async (name) =>
+            freeze({ name, treeIds: await loadExactSpecies(name) }),
+          ),
+        );
+        if (!current(state))
+          return unavailable(
+            "generation_superseded",
+            "search",
+            state.identity.generation,
+          );
+        const speciesDisplayValues: Record<string, string> = {};
+        const canonicalTreeIds: string[] = [];
+        const seen = new Set<string>();
+        for (const { name, treeIds } of matchedEntries)
+          for (const canonicalTreeId of treeIds ?? []) {
+            if (seen.has(canonicalTreeId)) continue;
+            seen.add(canonicalTreeId);
+            canonicalTreeIds.push(canonicalTreeId);
+            speciesDisplayValues[canonicalTreeId] = name;
+          }
+        return canonicalTreeIds.length > 0
           ? freeze({
               attribution: responseAttribution(state.attribution, "search"),
-              canonicalTreeIds: freeze([...canonicalTreeIds]),
+              canonicalTreeIds: freeze(canonicalTreeIds),
               generation: state.identity.generation,
               normalizedQuery,
-              semantics: "species-exact-value",
-              speciesDisplayValues: freeze(
-                Object.fromEntries(
-                  canonicalTreeIds.map((canonicalTreeId) => [
-                    canonicalTreeId,
-                    normalizedQuery,
-                  ]),
-                ),
-              ),
+              semantics: "species-partial-value",
+              speciesDisplayValues: freeze(speciesDisplayValues),
               status: "found",
             })
           : freeze({
               attribution: responseAttribution(state.attribution, "search"),
               generation: state.identity.generation,
               normalizedQuery,
-              semantics: "species-exact-value",
+              semantics: "species-partial-value",
               status: "not_found",
             });
       } catch (cause) {
@@ -1115,7 +1194,7 @@ export function createRuntimeStaticPackageDataSource(
             attribution: responseAttribution(state.attribution, "search"),
             generation: state.identity.generation,
             normalizedQuery,
-            semantics: "species-exact-value",
+            semantics: "species-partial-value",
             status: "not_found",
           });
         }

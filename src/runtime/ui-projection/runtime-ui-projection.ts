@@ -73,7 +73,7 @@ export type RuntimeUiSearchViewModel = Readonly<{
     speciesDisplayValue: string;
   }>[];
   resultCount: number | undefined;
-  semantics: "species-exact-value";
+  semantics: "species-exact-value" | "species-partial-value";
   status: RuntimeUiLifecycleCategory;
 }>;
 
@@ -246,7 +246,7 @@ function searchProjection(
           }),
         )
       : [],
-    semantics: "species-exact-value",
+    semantics: state.result.semantics,
     status: found ? "ready" : "no_result",
   });
 }

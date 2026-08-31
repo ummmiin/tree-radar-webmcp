@@ -18,7 +18,7 @@ const packageRoot = new URL("../public/runtime-package/", import.meta.url);
 const expectedArtifact =
   "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa";
 const expectedPackage =
-  "0ae437413cac58a6401b1c66d8829faeb0e0dbf3b397a0ee737fe265e4f21d0d";
+  "f714861dea2a7eed0b58e24952d6405867da595cc21f5fd5d3bad4217c214bf6";
 
 function sha256(value: Buffer): string {
   return createHash("sha256").update(value).digest("hex");
@@ -31,15 +31,20 @@ async function main() {
     throw new Error("Unexpected static-package artifact identity.");
   if (manifest.packageHash !== expectedPackage)
     throw new Error("Unexpected static-package package identity.");
-  if (manifest.files.length !== 658)
+  if (manifest.files.length !== 659)
     throw new Error(
-      `Expected 658 package descriptors, found ${String(manifest.files.length)}.`,
+      `Expected 659 package descriptors, found ${String(manifest.files.length)}.`,
     );
   const accounting = manifest.files.find(
     (file) => file.path === "accounting.json",
   );
   if (accounting?.recordCount !== 118_403)
     throw new Error("The package does not declare 118,403 official records.");
+  const speciesNames = manifest.files.find(
+    (file) => file.path === "search/species-names.json",
+  );
+  if (speciesNames?.recordCount !== 440)
+    throw new Error("The package does not declare 440 public species names.");
   for (const descriptor of manifest.files) {
     const file = new URL(descriptor.path, packageRoot);
     const [bytes, metadata] = await Promise.all([

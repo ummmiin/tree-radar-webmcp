@@ -226,7 +226,7 @@ export function TaichungChallengeExperience() {
                 onChange={(event) => {
                   setQuery(event.currentTarget.value);
                 }}
-                placeholder="輸入完整樹種名稱"
+                placeholder="輸入樹種名稱"
                 type="search"
                 value={query}
               />
@@ -242,7 +242,7 @@ export function TaichungChallengeExperience() {
             ) : projection.search.status === "no_result" ? (
               <p aria-live="polite">沒有符合的樹種。</p>
             ) : (
-              <p>輸入完整樹種名稱後搜尋。</p>
+              <p>輸入完整或部分樹種名稱後搜尋。</p>
             )}
           </section>
           {searchRows.length > 0 ? (
