@@ -3,6 +3,7 @@ import {
   DetailPayloadSchema,
   OverviewPayloadSchema,
   PointPayloadSchema,
+  SpeciesNameIndexPayloadSchema,
   SpeciesSearchPayloadSchema,
   type DescriptorSelector,
   type RuntimeCapability,
@@ -163,6 +164,23 @@ function parsePayload(
         result.data.artifactSha256 !== verified.manifest.artifactSha256 ||
         result.data.shard !== selector.shard ||
         Object.keys(result.data.entries).length !== descriptorRecordCount
+      )
+        throw runtimeError({
+          code: "payload_identity_mismatch",
+          phase: "file",
+        });
+      return deepFreeze(result.data);
+    }
+    case "species-name-index": {
+      const result = SpeciesNameIndexPayloadSchema.safeParse(raw);
+      if (!result.success) throw fail();
+      if (
+        result.data.artifactSha256 !== verified.manifest.artifactSha256 ||
+        result.data.names.length !== descriptorRecordCount ||
+        result.data.names.some(
+          (name, index) =>
+            index > 0 && name <= (result.data.names[index - 1] ?? ""),
+        )
       )
         throw runtimeError({
           code: "payload_identity_mismatch",

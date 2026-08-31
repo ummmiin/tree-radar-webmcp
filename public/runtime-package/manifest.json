@@ -3155,6 +3155,13 @@
       "sha256": "62f2313d1f3d0a290380897982da1b0cd0bdce19a9e404d51993873d137986be"
     },
     {
+      "bytes": 8068,
+      "gzipBytes": 2805,
+      "path": "search/species-names.json",
+      "recordCount": 440,
+      "sha256": "02aea01dfd779d693273cc520e770a34b0f1862201320010d36611e9b9dc456e"
+    },
+    {
       "bytes": 3903,
       "gzipBytes": 630,
       "path": "search/species/02.json",
@@ -4611,7 +4618,7 @@
       "sha256": "349210041c46da3fb6c2a4d820494450180b74740bbbbaf1ca10c40de0936d35"
     }
   ],
-  "packageHash": "0ae437413cac58a6401b1c66d8829faeb0e0dbf3b397a0ee737fe265e4f21d0d",
+  "packageHash": "f714861dea2a7eed0b58e24952d6405867da595cc21f5fd5d3bad4217c214bf6",
   "packageVersion": "1.0.0",
   "recordCount": 118403,
   "searchVersion": "1.0.0",
@@ -4619,6 +4626,6 @@
     "clusters": 3,
     "detail": 256,
     "point": 187,
-    "search": 208
+    "search": 209
   }
 }

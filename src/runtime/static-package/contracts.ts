@@ -112,6 +112,12 @@ export const SpeciesSearchPayloadSchema = z.strictObject({
   shard: z.string().regex(SHARD_KEY_PATTERN),
   type: z.literal("species"),
 });
+export const SpeciesNameIndexPayloadSchema = z.strictObject({
+  artifactSha256: sha256,
+  names: z.array(z.string().min(1)),
+  searchVersion: z.literal(STATIC_PACKAGE_VERSION),
+  type: z.literal("species-name-index"),
+});
 
 export type OverviewPayload = Readonly<z.infer<typeof OverviewPayloadSchema>>;
 export type ClusterPayload = Readonly<z.infer<typeof ClusterPayloadSchema>>;
@@ -120,12 +126,16 @@ export type DetailPayload = Readonly<z.infer<typeof DetailPayloadSchema>>;
 export type SpeciesSearchPayload = Readonly<
   z.infer<typeof SpeciesSearchPayloadSchema>
 >;
+export type SpeciesNameIndexPayload = Readonly<
+  z.infer<typeof SpeciesNameIndexPayloadSchema>
+>;
 export type RuntimePayload =
   | OverviewPayload
   | ClusterPayload
   | PointPayload
   | DetailPayload
-  | SpeciesSearchPayload;
+  | SpeciesSearchPayload
+  | SpeciesNameIndexPayload;
 
 export type DescriptorSelector =
   | Readonly<{ capability: "overview" }>
@@ -135,6 +145,7 @@ export type DescriptorSelector =
       tile: Readonly<{ x: number; y: number; zoom: 15 }>;
     }>
   | Readonly<{ capability: "detail"; shard: string }>
-  | Readonly<{ capability: "species-search"; shard: string }>;
+  | Readonly<{ capability: "species-search"; shard: string }>
+  | Readonly<{ capability: "species-name-index" }>;
 
 export type RuntimeCapability = DescriptorSelector["capability"];

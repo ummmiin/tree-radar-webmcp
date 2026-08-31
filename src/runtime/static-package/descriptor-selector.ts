@@ -41,6 +41,8 @@ function pathFor(selector: DescriptorSelector): string {
           phase: "descriptor",
         });
       return `search/species/${selector.shard}.json`;
+    case "species-name-index":
+      return "search/species-names.json";
     default:
       throw runtimeError({
         code: "descriptor_capability_denied",

@@ -11,9 +11,9 @@ import {
 const PACKAGE_ARTIFACT_SHA256 =
   "5daa914bef435fdce88728949465d88c99ab1eb0d3fb11e2127e057fcbe620fa";
 const PACKAGE_HASH =
-  "0ae437413cac58a6401b1c66d8829faeb0e0dbf3b397a0ee737fe265e4f21d0d";
+  "f714861dea2a7eed0b58e24952d6405867da595cc21f5fd5d3bad4217c214bf6";
 const MANIFEST_SHA256 =
-  "c5942b3aa6a5128d8a5d7eb5a76d902ccce741cdfbcfeefe51987fc24be1bc98";
+  "00da92e7caba898e7cce82ab9b62d9b18b3506fcc1c5bbd815a82af2ada3f2ac";
 
 export type TaichungChallengeRuntimeOpenResult =
   | Readonly<{
